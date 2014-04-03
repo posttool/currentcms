@@ -1,0 +1,545 @@
+
+* {
+    font-family: 'Helvetica Neue', sans-serif;
+    letter-spacing: .02em;
+}
+
+
+/*Webkit: prevent flickers
+Having flickering problems in Webkit? Use -webkit-backface-visibility. See this question for some discussions on this.
+*/
+.c {
+  -webkit-backface-visibility: hidden;
+}
+.c {
+  -webkit-transition: translate3d(0,0,0);
+}
+
+/* want to apply globally, but causes probs with ckeditor */
+.control-group, .controls, input, .hrow, .hcol, .crow, .ccol, #tool-bar, #control-bar, #info-panel, #info-panel textarea  {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.rich-text { padding-right: 10px; } /* to account for being un able to implement boxsizing for ck editor thanks */
+
+
+
+
+body {
+    background-color: #fff;
+}
+
+ul {
+    list-style-type: none;
+}
+
+label {
+    text-transform: uppercase;
+    font-size: 10px;
+}
+
+input {
+    border: 1px solid #ccc;
+    font-size: 26px;
+    padding: 7px;
+    width: 100%;
+    color: #555;
+}
+
+input.small {
+    font-size: 12px;
+    padding: 3px;
+    width: 100px;
+    color:#000;
+}
+
+textarea { margin: 0; width: 100%; min-height: 50px; }
+
+
+a, #info-cog {
+    color: #48adff;
+    text-decoration: none;
+    cursor:pointer;
+}
+
+a:hover, #info-cog:hover {
+    color: #79b6ff;
+}
+
+button {
+    font-weight: bold;
+    background-color: #48adff;
+    padding: 4px 9px 5px 8px;
+    margin: 2px 6px 0 0;
+    color: #fff;
+    cursor: pointer;
+    border: 0;
+    border-radius: 2px;
+}
+
+button:hover:enabled {
+    background-color: #088fff;
+}
+
+button:disabled {
+    opacity: .4;
+}
+
+button.delete {
+    background-color: #780500;
+}
+
+button.delete:hover:enabled {
+    background-color: #aa0700;
+}
+
+
+select {
+    width: 100px;
+    font-size: 12px;
+    border: 1px solid lightblue;
+    border-radius: 3px;
+    color: black;
+    padding: 3px;
+    -webkit-appearance: none;
+
+    background:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='50px' height='50px'><polyline points='46.139,15.518 25.166,36.49 4.193,15.519'/></svg>") right no-repeat;
+
+    background-color: lightblue;
+    background-transparency: 0.5;
+    background-position: right 15px top 22px;
+    background-size: 18px 18px;
+}
+select:active {
+    border: 1px solid #000;
+}
+
+
+
+.btn-right {
+   float: right;
+}
+
+.padded {
+    padding: 80px 12px 40px 12px;
+}
+
+.tag {
+    background-color: #b2e0ff;
+    border-radius: 4px;
+    padding: 4px;
+    margin: 2px;
+    color: #555;
+    float: left;
+}
+
+#tool-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 40px;
+    background-color: #04061a;
+    color: #eee;
+    /*border-bottom: 1px solid #48adff;*/
+    z-index: 15;
+    -webkit-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+
+
+.options {
+    font-size: 18px;
+    padding: 9px 0 0 20px;
+}
+
+#extra-options {
+}
+
+.nav-item {
+    padding-right: 10px;
+    cursor:pointer;
+}
+.nav-item:hover {
+    color: #48adff;
+}
+.user {
+    position: fixed;
+    top: 12px;
+    right: 28px;
+    color: #888;
+    font-size: 13px;
+}
+
+
+
+#control-bar {
+    position: fixed;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    height: 35px;
+    background-color: #fff;
+    color: #333;
+    border-bottom: 1px solid #ccc;
+    padding: 4px 15px 0 18px;
+    z-index: 12;
+}
+
+#info-panel {
+    position:fixed;
+    top:40px;
+    right: 0px;
+    width: 250px;
+    height: 100%;
+    background-color: #282a38;
+    color: #ccc;
+    padding: 10px 20px 10px 15px;
+    font-size: 13px;
+    z-index: 13;
+}
+
+#info-panel-content {
+    padding: 30px 0px 0px 1px;
+}
+.heading {
+    font-size: 20px;
+}
+
+
+
+/* form */
+
+.form .form {
+}
+
+
+
+
+.control-group {
+    padding-top: 20px;
+    clear:both;
+}
+
+
+.progress {
+    width: 100%;
+    height: 40px;
+    background-color: #999;
+}
+
+.progress .bar {
+    background-color: #222;
+    height: 100%;
+}
+
+.cke_editable {
+    font-size: 12px;
+}
+
+.model {
+    font-size: 13px;
+    background-color: #e7e5e0;
+    color: #335;
+    cursor: move;
+    margin: 0px 0 6px 0;
+    padding: 3px 6px 3px 0;
+}
+
+.model .text {
+    padding: 10px 40px 25px 10px;
+}
+
+.deletable-row {
+    width:250px;
+    float:left;
+}
+
+.deletable-row .comp {
+    float:left;
+}
+
+.deletable-row .del {
+    float:left;
+    margin-left: 5px;
+}
+
+.deletable-row .model {
+    width:200px;
+    height: 150px;
+    overflow:hidden;
+    float:left;
+}
+
+.three-col {
+    width: 75%;
+    padding-right:10px;
+     -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+ }
+
+.two-col {
+    width: 50%;
+    padding-right:10px;
+     -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+ }
+
+.one-col {
+    width: 25%;
+    padding-right:10px;
+     -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+ }
+
+/* browser */
+
+
+.browser {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding-top: 12px;
+}
+
+
+
+.title {
+    float: left;
+    padding: 6px 5px 2px 4px;
+    font-size: 11px;
+    text-transform: uppercase;
+    padding-right: 4px;
+    font-weight: bold;
+}
+
+.filters {
+    float: right;
+    font-size: 13px;
+    cursor:pointer;
+}
+
+.filter-tag {
+    background-color: #deebff;
+    border-radius: 4px;
+    padding: 4px;
+    margin: 2px;
+    color: #555;
+    float: left;
+}
+.filter-tag:hover {
+    background-color: #c9e8ff;
+}
+/*.filters:hover {*/
+    /*background-color: #ccc;*/
+/*}*/
+
+.pr {
+    padding: 10px 0 10px 0;
+    border-bottom: 1px solid #555;
+}
+.pr .cond, .pr .i {
+    margin-left:50px;
+}
+
+.pager {
+    padding: 5px 0 15px 0;
+    float: left;
+    font-size: 13px;
+}
+
+.results {
+}
+
+.header {
+}
+
+.hrow, .crow {
+    clear: both;
+    cursor: pointer;
+    height: 30px;
+}
+
+.hcol, .ccol {
+    float: left;
+    border-left: 1px solid #ddd;
+    padding: 13px 8px 8px 8px;
+}
+
+.hcol {
+    font-size: 10px;
+    text-transform: uppercase;
+}
+
+.ccol {
+    font-size: 12px;
+
+}
+
+.over {
+    background-color: #deebff;
+}
+
+
+.page {
+    color: #48adff;
+    text-decoration: none;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #deebff;
+    padding: 2px;
+    border-radius: 3px;
+}
+
+.page:hover {
+    color: #79b6ff;
+}
+
+.page.selected {
+    color: #333;
+    font-weight:bold;
+}
+
+.big {
+    width: 100%;
+    left: 0;
+    top: 80px;
+    border-bottom: 1px solid #333;
+    padding-bottom:15px;
+}
+
+.order {
+    font-weight: bolder;
+    color:#000;
+    letter-spacing: .1em;
+    text-decoration: underline;
+}
+
+.time {
+    font-size: 11px;
+}
+
+.small {
+    font-size: 12px;
+}
+
+.nowrap {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+/* layers */
+
+.layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.layer .lens {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0, .7);
+}
+
+.c {
+    position:relative;
+    padding: 80px 20px 40px 20px;
+    background-color: white;
+    -webkit-box-shadow: 0px 0px 138px 67px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0px 0px 138px 67px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 138px 67px rgba(0, 0, 0, 0.3);
+
+}
+
+#info-panel h3 { padding-top: 8px; border-top: 1px solid #44475f; }
+/*#info-panel*/
+.related-panel, .delete-panel, .logs-panel {
+padding-top: 20px;
+}
+/* logs */
+.logs-panel-c {
+    overflow: auto; max-height: 400px;
+}
+.log-row {
+    padding:10px 0 10px 0;
+}
+.log-row .email { color: #ccc;  }
+.log-row .instance { color: #48adff; cursor: pointer;}
+.log-row .instance:hover {    color: #79b6ff;}
+.log-row .action {  top: 0; color: #fff; }
+.log-row .diff { font-size: 11px; color: #999; }
+.log-row .diff-added { font-size: 11px; color: #ddd; font-weight: bold;}
+.log-row .diff-unchanged { font-size: 11px; color: #ccc;}
+.log-row .diff-removed { font-size: 11px; color: #555; text-decoration: line-through;}
+
+
+.state-change-choice { cursor: pointer; padding-bottom: 4px;}
+.state-change-choice:hover { color: #48adff; }
+.state-change-choice.selected { color: #48adff;}
+
+
+
+
+
+
+
+
+
+.file-input-button {
+    position: relative;
+    overflow: hidden;
+    margin: 6px 0 6px 0;
+}
+
+.file-input-button input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0;
+    border: solid transparent;
+    border-width: 0 0 100px 200px;
+    opacity: 0;
+    filter: alpha(opacity = 0);
+    -moz-transform: translate(-300px, 0) scale(4);
+    direction: ltr;
+    cursor: pointer;
+}
+
+
+.progress, .file-input-info {
+    display: none;
+}
+
+.file-input-wrap {
+    margin: 0 0 8px 0;
+}
+
+.multi-drop-area {
+    padding:5px;
+    min-height: 50px;
+    border: 1px dotted #777;
+    background-color: #eee;
+    line-height: 18px;
+}
+
+.multi-drop-area a, .multi-drop-area i { line-height: 15px; }
+
+.multi-drop-area:hover {background-color: #fff; }
