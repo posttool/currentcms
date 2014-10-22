@@ -1,7 +1,7 @@
 {
   "name": "currentcms",
   "description": "Current Cms is a multi user content management system for Node.js and MongoDB ",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "David Karam <david@postool.com>",
   "license": "MIT",
   "repository": "posttool/currentcms",
