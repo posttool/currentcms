@@ -1,8 +1,11 @@
 {
-  "name": "currently13",
-  "description": "againaaa",
+  "name": "currentcms",
+  "description": "Current Cms is a multi user content management system for Node.js and MongoDB ",
   "version": "0.0.2",
-  "private": true,
+  "author": "David Karam <david@postool.com>",
+  "license": "MIT",
+  "repository": "posttool/currentcms",
+
   "dependencies": {
     "cloudinary": "1.0.7",
     "connect-mongo": "0.4.0",
@@ -35,5 +38,12 @@
     "grunt-contrib-nodeunit": "~0.2.0",
     "grunt-contrib-uglify": "~0.2.2",
     "grunt-ssh": "~0.11.0"
-  }
+  },
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
 }
