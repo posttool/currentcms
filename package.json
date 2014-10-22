@@ -1,31 +1,32 @@
 {
-  "author": "posttool",
-  "name": "currentcms",
-  "description": "Current Cms is a multi user content management system for Node.js and MongoDB.",
-  "version": "0.1.13",
+  "name": "currently13",
+  "description": "againaaa",
+  "version": "0.0.2",
+  "private": true,
   "dependencies": {
-    "express": "3.4.7",
-    "kue": "0.7.5",
-    "mongoose": "3.8.7",
-    "gridfs-stream": "0.4.1",
     "cloudinary": "1.0.7",
-    "gm": "1.14.2",
-    "ejs": "0.8.5",
-    "node-uuid": "1.4.1",
-    "nodemailer": "0.6.0",
     "connect-mongo": "0.4.0",
     "csv": "0.3.7",
-    "prompt": "0.2.12",
     "diff": "1.0.8",
-    "forever": "0.10.11",
+    "ejs": "0.8.5",
+    "express": "3.4.7",
     "fluent-ffmpeg": "1.6.0",
+    "forever": "0.10.11",
+    "formidable": "1.0.14",
+    "gm": "1.14.2",
+    "gridfs-stream": "0.4.1",
+    "kue": "0.7.5",
+    "lodash": "^2.4.1",
+    "mailgun": "0.4.2",
     "mime": "1.2.11",
+    "mongoose": "3.8.7",
+    "node-uuid": "1.4.1",
+    "nodemailer": "0.6.0",
     "pkgcloud": "0.9.4",
+    "prompt": "0.2.12",
     "tmp": "0.0.23",
     "winston": "0.7.2",
-    "winston-mongodb": "0.4.3",
-    "formidable": "1.0.14",
-    "mailgun": "0.4.2"
+    "winston-mongodb": "0.4.3"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
@@ -34,10 +35,5 @@
     "grunt-contrib-nodeunit": "~0.2.0",
     "grunt-contrib-uglify": "~0.2.2",
     "grunt-ssh": "~0.11.0"
-  },
-  "repository": "git://github.com/posttool/current",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
-  "license": "MIT"
+  }
 }
