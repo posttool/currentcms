@@ -206,7 +206,7 @@ select.form-control {
     color: #48adff;
 }
 
-.user {
+#tool-bar .user {
     position: fixed;
     top: 12px;
     right: 270px;
