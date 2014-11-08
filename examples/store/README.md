@@ -1,0 +1,4 @@
+Store
+---
+
+Passport & Stripe integration

@@ -1,0 +1,10 @@
+Catalog,8,,,,,,
+id,creator,date_created,last_modified,price,caption,title,images
+1,User:1,2010.08.04.16.22.26 -0700,2010.08.09.15.35.16 -0700,32.0,This is the caption re: catalog,NULL,[Resource:29]
+2,User:1,2010.08.05.12.49.16 -0700,2010.08.05.13.34.35 -0700,35.0,I need better text,Catalog Title,NULL
+3,User:1,2010.08.10.12.19.23 -0700,2010.08.10.12.25.28 -0700,35.0,NULL,"Jules Olitski, Embracing Circles",[Resource:122]
+4,User:1,2010.08.10.12.21.32 -0700,2010.08.10.12.23.56 -0700,35.0,NULL,"Jules Olitski, Embracing Circles",[Resource:122]
+5,User:1,2011.04.29.17.09.19 -0700,2011.04.29.17.09.47 -0700,NULL,NULL,,NULL
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,27 @@
+<% var title = "Artist" %>
+<% include head.ejs %>
+<div class="slides"></div>
+<% include menu.ejs %>
+<% include foot.ejs %>
+
+<script src="/js/layout.js"></script>
+<script>
+    var bp = "<%= resource_basepath %>";
+    layout($(".slides"), <%- JSON.stringify(images) %>);
+    function navigate_next(){
+        document.location.href = "<%= next_page.url %>";
+    }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+

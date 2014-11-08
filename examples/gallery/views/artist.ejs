@@ -1,0 +1,8 @@
+<h1>ARTIST</h1>
+
+<h3><%= artist.first_name %> <%= artist.last_name %></h3>
+
+<% for (var i=0; i<artist.work.length; i++) {
+    var w = artist.work[i]; %>
+    <div class="<%=w.code%>"><%=w.title%></div>
+<% } %>

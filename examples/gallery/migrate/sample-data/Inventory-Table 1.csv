@@ -1,0 +1,311 @@
+Inventory,13,,,,,,,,,,,
+id,creator,date_created,last_modified,title,code,description,resources,use,alignment,materials,dimensions,year
+1,User:1,2009.10.09.14.30.56 -0700,2011.03.29.17.56.45 -0700,Women Playing Cards,AVE-057-OC,NULL,[Resource:1],NULL,NULL,oil on canvas,"26.25 x 34.25""",1948
+2,User:1,2009.10.09.14.32.25 -0700,2011.03.29.17.56.45 -0700,Reader in the Quarry,AVE-066-OC,NULL,[Resource:2],NULL,NULL,oil on canvas,"30.5 x 40.5""",1947
+3,User:1,2009.10.09.14.33.39 -0700,2011.03.29.17.56.45 -0700,Mountains & Meadows,AVE-072-OC,NULL,[Resource:3],NULL,NULL,oil on canvas,"32 x 42""",1946
+7,User:1,2009.10.13.12.41.47 -0700,2011.06.08.13.48.36 -0700,Substantial Woman,AVE-002-OC,NULL,[Resource:7],NULL,NULL,oil on canvas,"36 x 46""",1946
+8,User:1,2009.10.13.12.42.43 -0700,2011.03.29.17.56.45 -0700,Sea Grasses & Blue Sea,AVE-020-MM,NULL,[Resource:8],NULL,NULL,"oil, watercolor and black wash on paper","22.5 x 31""",1958
+9,User:1,2009.10.13.12.43.53 -0700,2011.03.29.17.56.45 -0700,Black Chemise,AVE-084-OC ,NULL,[Resource:9],NULL,crop bottom,oil on canvas,"36 x 30""",1946
+10,User:1,2009.10.13.12.48.44 -0700,2011.03.29.17.56.45 -0700,Woman in Bathrobe,BIS-009-OC,NULL,[Resource:10],NULL,crop top,oil on canvas,"24 x 20""",1958
+12,User:1,2009.10.13.12.54.06 -0700,2011.03.29.17.56.45 -0700,Rufus (small red),BUT-008-SC ,NULL,[Resource:12],NULL,crop right,NULL,NULL,NULL
+13,User:1,2009.10.13.12.56.11 -0700,2011.03.29.17.56.45 -0700,Untitled,CAV-005-OC,NULL,[Resource:13],NULL,NULL,oil on canvas,"72 x 56""",1964
+14,User:1,2009.10.13.12.59.41 -0700,2011.03.29.17.56.45 -0700,Untitled (Albuquerque Series),DBK-074-OC ,NULL,[Resource:14],NULL,crop top,oil on canvas,"17 x 15.5""",1951
+17,User:1,2009.10.13.13.05.10 -0700,2011.03.29.17.56.45 -0700,Nude in Chair,DEN-128-OC ,NULL,[Resource:260],normal,NULL,oil on canvas,"40 x 46""",1971
+18,User:1,2009.10.13.13.10.41 -0700,2011.03.29.17.56.45 -0700,Untitled White Line,FRA-005-GO,NULL,[Resource:19],NULL,NULL,oil on paper mounted on masonite,"39.25 x 26.5""",1959
+19,User:1,2009.10.13.13.25.59 -0700,2011.03.29.17.56.45 -0700,Red Flowers and Purple Vase,HAR-019-OM,NULL,[Resource:20],NULL,crop bottom,oil on masonite,"28 x 22""",1941
+20,User:1,2009.10.13.13.27.58 -0700,2011.03.29.17.56.45 -0700,Untitled,HEL-003-OC,NULL,[Resource:21],NULL,NULL,oil on canvas,"30.25 x 34.5""",1958
+22,User:1,2009.10.13.13.32.04 -0700,2011.03.29.17.56.45 -0700,Yellow Self Portrait,HOF-044-OM ,NULL,[Resource:24],NULL,crop bottom,oil on panel,"51.5 x 36.25""",1943
+23,User:1,2009.10.13.13.32.49 -0700,2011.03.29.17.56.45 -0700,When Gods Combat,HOF-055-OM ,NULL,[Resource:25],NULL,NULL,oil on linen,"36 x 48""",1965
+24,User:1,2009.10.13.13.33.52 -0700,2011.03.29.17.56.45 -0700,Genius Logic,HOF-123-OC,<ROOT/>,[Resource:269],normal,NULL,oil on canvas,"48 x 36""",1963
+25,User:1,2009.10.13.13.36.05 -0700,2011.03.29.17.56.45 -0700,Italy,HOG-001-OM,NULL,[Resource:27],NULL,NULL,oil on panel,"32.25 x 34.25""",1996
+26,User:1,2009.10.13.13.42.20 -0700,2011.03.29.17.56.45 -0700,Ochre Enclosing Umber with Emerald Disk and Peripheral Orange,HRN-009-GO ,NULL,[Resource:28],NULL,crop left,gouache on paper,"23 x 30""",1968
+27,User:1,2009.10.13.13.44.01 -0700,2011.03.29.17.56.45 -0700,Untitled,KLI-005-IN,NULL,[Resource:29],NULL,NULL,ink on paper,"12 x 15.75""",1952
+28,User:1,2009.10.13.13.45.30 -0700,2011.03.29.17.56.45 -0700,Opus No. 61-313,KSI-001-OC ,NULL,[Resource:30],NULL,crop right,oil on canvas,"58 x 94""",1961
+29,User:1,2009.10.13.13.47.58 -0700,2011.03.29.17.56.45 -0700,1 January 1949,LOB-003-OC,NULL,[Resource:31],NULL,NULL,oil on canvas,"48 x 40""",1949
+30,User:1,2009.10.13.13.49.01 -0700,2011.03.29.17.56.45 -0700,1.3.95-4.10.95 Bleeker,LOB-184-OC ,NULL,[Resource:32],NULL,NULL,oil on canvas,"96 x 78""",1995
+31,User:1,2009.10.13.13.50.04 -0700,2011.03.29.17.56.45 -0700,Untitled,MIL-002-GO ,NULL,[Resource:33],NULL,NULL,gouache on paper,"27.75 x 39.75""",1961
+33,User:1,2009.10.13.13.53.23 -0700,2011.03.29.17.56.45 -0700,Untitled,MIT-025-OC,NULL,[Resource:35],NULL,NULL,oil on canvas,"36.25 x 28.75""",1957
+35,User:1,2009.10.13.13.55.39 -0700,2011.03.29.17.56.45 -0700,A&B,MRC-011-MM ,NULL,[Resource:37],NULL,crop right,"oil, chalk and canvas collage on canvas",60 x 106”,1958
+36,User:1,2009.10.13.13.57.49 -0700,2011.03.29.17.56.45 -0700,Oka,NER-124-SC ,NULL,[Resource:38],not for homepage,NULL,marble sculpture,"51 x 20 x 24""",1990
+37,User:1,2009.10.13.14.01.40 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 2,NER-178-MM,NULL,[Resource:40],NULL,NULL,collage with oil-based pigments on canvas,"66.5 x 54.5""",1959
+38,User:1,2009.10.13.14.02.23 -0700,2011.03.29.17.56.45 -0700,Standing Female Figure No. 6 (cast 1/4),NER-391-SC,NULL,[Resource:41],not for homepage,NULL,bronze sculpture with oil-based enamel,"65.5 x 19.75 x 15.5""",2006
+39,User:1,2009.10.13.14.06.36 -0700,2013.01.15.16.15.10 -0800,Screen I (diptych),OKD-003-OC ,NULL,[Resource:42],NULL,crop left,oil on canvas,"60 x 48""",1955
+40,User:1,2009.10.13.14.07.33 -0700,2011.03.29.17.56.45 -0700,Idealized Female Head,NAD-018-SC,NULL,[Resource:43],not for homepage,NULL,white marble,"15.5 x 9 x 14""",1910
+41,User:1,2009.10.13.14.08.57 -0700,2011.03.29.17.56.45 -0700,Head of Man,PAR-011-TP,NULL,[Resource:44],not for homepage,NULL,tempera on paper,"13.25 x 10""",1960
+42,User:1,2009.10.13.14.10.03 -0700,2011.03.29.17.56.45 -0700,Standing Nudes,PAR-036-GO,NULL,[Resource:45],not for homepage,NULL,NULL,NULL,NULL
+43,User:1,2009.10.13.14.11.10 -0700,2011.03.29.17.56.45 -0700,Untitled,PAR-059-OC,NULL,[Resource:46],NULL,NULL,oil on canvas,"25 x 27""",1957
+44,User:1,2009.10.13.14.12.14 -0700,2013.01.15.14.39.30 -0800,Boy Painting,PAR-064-OC,NULL,[Resource:47],not for homepage,crop left,oil on canvas,"50 x 36""",1957
+45,User:1,2009.10.13.14.12.59 -0700,2011.03.29.17.56.45 -0700,Bather with Green Sea,PAR-071-OC ,NULL,[Resource:48],not for homepage,NULL,oil on canvas,"27.75 x 13.75""",1958
+46,User:1,2009.10.13.14.13.47 -0700,2011.03.29.17.56.45 -0700,Crowd of Seven,PAR-100 -GO,NULL,[Resource:49],NULL,NULL,gouache on paper,"13.25 x 19.75""",1960
+47,User:1,2009.10.13.14.14.57 -0700,2011.03.29.17.56.45 -0700,Two Bathers,PAR-170-OC,NULL,[Resource:50],NULL,crop bottom,oil on canvas,"58 x 50""",1958
+48,User:1,2009.10.13.14.16.10 -0700,2011.03.29.17.56.45 -0700,Women with Towels (Bathers),PAR-169-OC,NULL,[Resource:51],NULL,NULL,oil on canvas,50.25 x 66,1958
+50,User:1,2009.10.13.14.17.52 -0700,2013.01.15.16.04.17 -0800,Untitled (Seated Male) ,PAR-190-IN,NULL,[Resource:53],not for homepage,crop bottom,ink on paper,"16.5 x 13.25""",1950
+51,User:1,2009.10.13.14.19.11 -0700,2011.03.29.17.56.45 -0700,The Dance,PAR-206-OC,NULL,[Resource:54],NULL,NULL,oil on canvas,"36 x 52""",1953
+52,User:1,2009.10.13.14.20.53 -0700,2011.03.29.17.56.45 -0700,Bend of the River,STP-168-OC,NULL,[Resource:55],NULL,NULL,oil on canvas,"44 x 48""",2006
+53,User:1,2009.10.13.14.21.55 -0700,2011.03.29.17.56.45 -0700,Still Life with Green Stripe,STP-259-OC,NULL,[Resource:56],NULL,crop top,oil on canvas,"48 x 36""",2008
+57,User:1,2009.10.13.14.26.18 -0700,2011.03.29.17.56.45 -0700,"""Four Circles""",WLA-036-SC,NULL,[Resource:60],NULL,NULL,NULL,NULL,NULL
+59,User:1,2009.10.28.11.21.21 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:62],NULL,crop right,NULL,NULL,NULL
+60,User:1,2009.10.28.11.35.22 -0700,2011.03.29.17.56.45 -0700,Rufus (Small Red),BUT-008-SC,<ROOT><P> </P></ROOT>,[Resource:63],not for homepage,NULL,welded steel sculpture,"42 x 57 x 20.5""",2005
+62,User:1,2009.10.28.11.46.47 -0700,2011.03.29.17.56.45 -0700,Rufus (red small detail),BUT-008alt-SC,NULL,[Resource:65],just for homepage,NULL,NULL,NULL,NULL
+64,User:1,2009.10.29.12.11.22 -0700,2011.03.29.17.56.45 -0700,Rufus (Small Red Detail),BUT-008alt-SC,<ROOT><P> </P></ROOT>,[Resource:67],just for homepage,NULL,welded steel sculpture,"42 x 57 x 20.5""",2005
+66,User:1,2009.11.02.14.43.09 -0800,2011.03.29.17.56.45 -0700,Four Circles,WLA-036-SC,NULL,[Resource:69],NULL,NULL,painted steel,"35 x 23 x 26.5""",1968
+71,User:1,2009.11.03.14.14.32 -0800,2011.03.29.17.56.45 -0700,A Science,SCH-144-GO,NULL,[Resource:76],NULL,NULL,gouache on paper,"7.75 x 9.25""",1995
+72,User:1,2009.11.03.14.15.58 -0800,2011.03.29.17.56.45 -0700,A Season of Us,SCH-146-GO,NULL,[Resource:77],NULL,NULL,gouache on paper,7.75 x 9,1995
+73,User:1,2009.11.03.14.19.39 -0800,2011.03.29.17.56.45 -0700,"No, No",SCH-153-GO,NULL,[Resource:78],NULL,NULL,gouache on paper,"7.75 x 9.25""",1996
+75,User:1,2010.06.07.10.45.09 -0700,2011.03.29.17.56.45 -0700,Fair Charlotte,OSI-021-AC,<ROOT/>,[Resource:129],NULL,NULL,magna acrylic on canvas,"80 x 122""",1961
+78,User:1,2010.07.22.13.02.54 -0700,2011.04.08.16.42.50 -0700,Lucy's Fancy,OSI-016-AC,NULL,[Resource:310],NULL,NULL,magna acrylic on canvas,"79 x 125""",1960
+79,User:1,2010.07.22.13.09.21 -0700,2011.03.29.17.56.45 -0700,Untitled Eight,OSI-013-AC,NULL,[Resource:127],NULL,NULL,magna acrylic on canvas,"78 x 80""",1960
+80,User:1,2010.07.22.13.14.47 -0700,2011.03.29.17.56.45 -0700,Untitled Seven,OSI-020-AC,NULL,[Resource:87],NULL,NULL,magna acrylic on canvas,"77 x 79""",1960
+81,User:1,2010.07.22.13.16.25 -0700,2011.03.29.17.56.45 -0700,Untitled Two,OSI-017-AC,NULL,[Resource:88],NULL,NULL,magna acrylic on canvas,"79 x 66""",1960
+84,User:1,2010.07.22.13.21.45 -0700,2011.03.29.17.56.45 -0700,Lucy's Fancy,OSI-016-AC,<ROOT/>,[Resource:169],NULL,NULL,magna acrylic on canvas,"79 x 125""",1960
+88,User:1,2010.07.22.13.25.35 -0700,2011.03.29.17.56.45 -0700,Untitled 9,OSI-012-AC,<ROOT/>,[Resource:168],NULL,NULL,magna acrylic on canvas,"78 x 65""",1961
+89,User:1,2010.07.22.13.26.21 -0700,2011.03.29.17.56.45 -0700,New Love,OSI-019-AC,NULL,[Resource:106],NULL,NULL,magna acrylic on canvas,"46 x 35""",1964
+90,User:1,2010.07.22.13.29.23 -0700,2011.03.29.17.56.45 -0700,Hallo,OSI-014-AC,NULL,[Resource:107],not for homepage,NULL,acrylic on canvas,"42 x 24""",1961
+91,User:1,2010.07.22.13.32.09 -0700,2011.03.29.17.56.45 -0700,Medusa Pleasure,OSI-018-AC,NULL,[Resource:170],NULL,NULL,magna acrylic on canvas,"64 x 78.25""",1962
+92,User:1,2010.08.10.11.32.06 -0700,2011.03.29.17.56.45 -0700,Fanny D,OSI-011-AC,NULL,[Resource:116],NULL,NULL,magna acrylic on canvas,"89 x 89.5""",1960
+94,User:1,2010.08.10.11.44.16 -0700,2011.03.29.17.56.45 -0700,Ogygia,OSI-022-SC,NULL,[Resource:118],NULL,NULL,steel,"30 x 25.5 x 10""",2001
+95,User:1,2010.08.10.11.46.28 -0700,2011.03.29.17.56.45 -0700,"Memoirs: Green, Orange and Crimson",OSI-010-AC,NULL,[Resource:120],not for homepage,NULL,acrylic on canvas,"35 x 40""",2003
+96,User:1,2010.08.10.11.50.12 -0700,2011.03.29.17.56.45 -0700,Upon a Sea,OSI-007-AC,NULL,[Resource:121],not for homepage,NULL,acrylic on canvas,"40 x 48""",1996
+97,User:1,2010.08.10.17.20.57 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:130],NULL,NULL,NULL,NULL,NULL
+98,User:1,2010.08.10.17.21.09 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:131],NULL,NULL,NULL,NULL,NULL
+100,User:1,2010.08.11.12.51.40 -0700,2011.03.29.17.56.45 -0700,Walking Onward (cast 2/8F),ARK-014-SC,NULL,[Resource:177],not for homepage,crop bottom,bronze,23 x 7 x 5.5”,1925
+101,User:1,2010.08.11.12.53.38 -0700,2011.03.29.17.56.45 -0700,Couple of Girls,BRN-016-MM,NULL,[Resource:174],NULL,NULL,water-based pigments on paper,24 x 30”,1963
+102,User:1,2010.08.11.13.24.26 -0700,2011.03.29.17.56.45 -0700,The Red Open Window,MOT-032-AC,NULL,[Resource:138],not for homepage,NULL,acrylic on canvas,"72 x 47""",1972
+103,User:1,2010.08.11.16.37.55 -0700,2013.05.07.16.22.29 -0700,Two Boys Canoeing,PAR-210-OC,NULL,[Resource:491],not for homepage,NULL,oil on canvas,26.25 x 18.25”,1950
+104,User:1,2010.08.11.16.40.22 -0700,2011.06.09.13.38.32 -0700,Profile of Lydia,PAR-214-OC,NULL,[Resource:376],NULL,NULL,oil on canvas,13.5 x 15.5”,1952
+105,User:1,2010.08.11.16.44.56 -0700,2013.05.07.16.21.36 -0700,Man in Rowboat,PAR-176-GO,NULL,[Resource:490],not for homepage,crop top,gouache on paper,14 x 9”,1960
+106,User:1,2010.08.11.16.47.16 -0700,2011.03.29.17.56.45 -0700,The Escape,WOE-101-OC,NULL,[Resource:143],NULL,NULL,oil and collage on canvas,"20 x 16""",1954
+107,User:1,2010.08.11.16.48.16 -0700,2011.03.29.17.56.45 -0700,Cipolina No. 4,NER-480-SC,NULL,[Resource:144],not for homepage,NULL,marble,41.75 x 13.75 x 10”,1983
+108,User:1,2010.08.11.16.49.01 -0700,2013.01.15.16.07.16 -0800,Makiko IV (Cast 2/4),NER-506-SC,NULL,[Resource:145],not for homepage,crop bottom,bronze sculpture,15 x 10.5 x 10”,2009
+109,User:1,2010.08.11.16.49.51 -0700,2011.03.29.17.56.45 -0700,Standing Figure I,NER-517-SC,NULL,[Resource:146],not for homepage,NULL,"plaster, water-based pigments, oil-based enamels, wood, wire, burlap",64.25 x 20.25 x 20”,1974
+110,User:1,2010.08.11.16.51.28 -0700,2011.03.29.17.56.45 -0700,Still Life with Some Lemon-Like Objects,STP-275-OC,NULL,[Resource:182],NULL,NULL,oil on canvas,48 x 44”,2010
+111,User:1,2010.08.11.16.52.44 -0700,2011.03.29.17.56.45 -0700,Red #127,DUG-015-OC,NULL,[Resource:178],NULL,NULL,oil on canvas,81.625 x 68.75”,1959
+112,User:1,2010.08.11.16.53.50 -0700,2011.03.29.17.56.45 -0700,Muted No. 2,OKD-005-OC,NULL,[Resource:149],NULL,NULL,oil on canvas,69 x 32”,1957
+113,User:1,2010.08.11.16.54.42 -0700,2011.03.29.17.56.45 -0700,13 September 1949,LOB-005-OC,NULL,[Resource:150],NULL,NULL,oil on canvas,47.75 x 47.75”,1949
+114,User:1,2010.08.11.16.56.16 -0700,2011.03.29.17.56.45 -0700,Spheroid,FRB-001-SC,NULL,[Resource:179],NULL,crop bottom,copper sculpture,40 x 25.5 x 26.5”,1962
+115,User:1,2010.08.11.16.57.36 -0700,2011.03.29.17.56.45 -0700,1954 No. 1,NAK-001-MM,NULL,[Resource:180],NULL,NULL,ink and collage on paper,"24.75 x 30.5""",1954
+116,User:1,2010.08.11.16.58.42 -0700,2011.03.29.17.56.45 -0700,Six Black II,WLA-037-SC,NULL,[Resource:171],NULL,NULL,painted steel,46 x 38 x 17”,1961
+117,User:1,2010.08.11.17.00.14 -0700,2011.03.29.17.56.45 -0700,Bacchante (#1),SCH-167-SC,NULL,[Resource:154],not for homepage,NULL,bronze sculpture,"8 x 3 x 3""",1997
+118,User:1,2010.08.11.18.36.17 -0700,2011.03.29.17.56.45 -0700,Cigar Box Lid No. 5,DBK-094-OM,NULL,[Resource:175],NULL,NULL,oil on wood,7.5 x 5.5”,1979
+119,User:1,2010.08.12.09.36.30 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:156],NULL,NULL,NULL,NULL,NULL
+120,User:1,2010.08.12.09.51.57 -0700,2011.03.29.17.56.45 -0700,No Objects-One,OSI-005-AC,NULL,[Resource:163],not for homepage,NULL,acrylic on canvas,"52.5 x 117""",1982
+121,User:1,2010.08.12.09.55.44 -0700,2011.03.29.17.56.45 -0700,Absalom Passage-Twenty Three,OSI-003-AC,NULL,[Resource:159],not for homepage,NULL,acrylic on canvas,"20 x 38""",1973
+122,User:1,2010.08.12.09.57.12 -0700,2011.03.29.17.56.45 -0700,Thales Enthralled-Thirteen,OSI-004-AC,NULL,[Resource:160],not for homepage,NULL,acrylic on canvas,"63 x 27""",1978
+123,User:1,2010.08.12.09.58.17 -0700,2012.04.03.16.27.58 -0700,Sunset,OSI-002-AC,NULL,[Resource:430],not for homepage,NULL,acrylic on canvas,"21 x 9.5""",1968
+124,User:1,2010.08.12.09.59.18 -0700,2011.03.29.17.56.45 -0700,Pink Ho,OSI-001-AC,NULL,[Resource:162],not for homepage,NULL,acrylic on canvas,"90 x 45""",1965
+125,User:1,2010.08.12.14.04.00 -0700,2011.03.29.17.56.45 -0700,Olympus Crest,OSI-006-AC,NULL,[Resource:164],NULL,NULL,acrylic on canvas,79 x 60”,1988
+126,User:1,2010.08.12.14.05.31 -0700,2011.03.29.17.56.45 -0700,With Love and Disregard,OSI-009-AC,NULL,[Resource:165],NULL,NULL,acrylic on canvas,72 x 60”,2002
+127,User:1,2010.08.12.14.06.22 -0700,2011.03.29.17.56.45 -0700,Mythic Sunrise,OSI-008-AC,NULL,[Resource:166],NULL,NULL,acrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvasacrylic on canvas,24 x 44”,1997
+129,User:1,2010.10.18.13.42.11 -0700,2011.03.29.17.56.45 -0700,Dr. Zonk,NER-009-SC,NULL,[Resource:189],NULL,NULL,"plaster, oil-based enamel, graphite, wood, and burlap sculpture",22 x 12 x 11.5”,1958
+132,User:1,2010.10.18.13.45.57 -0700,2011.04.08.16.44.48 -0700,Collage Painting No. 5,NER-177-OC,NULL,[Resource:311],NULL,NULL,collage with oil-based pigments on canvas,30.75” x 24.75” x 1.75”,1958-59
+136,User:1,2010.10.18.13.53.36 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 2,NER-178-MM,NULL,[Resource:195],NULL,NULL,collage with oil-based pigments on canvas,66.5 x 54.5”,1958
+140,User:1,2010.10.18.13.59.04 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 5,NER-177-OC,NULL,[Resource:197],NULL,NULL,collage with oil-based pigments on canvas,30.75 x 27.25”,1958
+141,User:1,2010.10.18.14.00.17 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 2,NER-178-MM,NULL,[Resource:198],NULL,NULL,collage with oil-based pigments on canvas,66.5 x 54.5”,1958
+142,User:1,2010.10.18.14.08.25 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:200],not for homepage,NULL,NULL,NULL,NULL
+143,User:1,2010.10.18.14.08.41 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:201],NULL,NULL,NULL,NULL,NULL
+144,User:1,2010.10.18.14.09.05 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:202],NULL,NULL,NULL,NULL,NULL
+145,User:1,2010.10.18.14.11.56 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:203],NULL,NULL,NULL,NULL,NULL
+146,User:1,2010.10.18.14.12.38 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:204],not for homepage,NULL,NULL,NULL,NULL
+147,User:1,2010.10.18.14.14.12 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:205],NULL,NULL,NULL,NULL,NULL
+148,User:1,2010.10.18.14.15.00 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:206],NULL,NULL,NULL,NULL,NULL
+151,User:1,2010.10.18.14.24.33 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:208],NULL,NULL,NULL,NULL,NULL
+152,User:1,2010.10.18.14.25.25 -0700,2011.03.29.17.56.45 -0700,Carla VI,NER-004-MM,NULL,[Resource:209],not for homepage,NULL,mixed media,64 x 13.75 x 10.5”,1958
+154,User:1,2010.10.18.14.30.08 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 5,NER-177-OC,NULL,[Resource:211],NULL,NULL,collage with oil-based pigments on canvas,30.75 x 27.25”,1958
+156,User:1,2010.10.18.14.34.30 -0700,2011.03.29.17.56.45 -0700,Carla V,NER-320-SC,NULL,[Resource:213],not for homepage,NULL,"plaster sculpture with oil-based enamel, graphite, wood, wire, and burlap",67 x 22.25 x 20”,1964
+157,User:1,2010.10.18.14.35.05 -0700,2011.03.29.17.56.45 -0700,Hawk,NER-399-MM,NULL,[Resource:214],NULL,NULL,cardboard and mixed media,14.25 x 9 x 5”,1957
+158,User:1,2010.10.18.14.35.33 -0700,2011.03.29.17.56.45 -0700,Moon Sculpture II,NER-400-MM,NULL,[Resource:215],not for homepage,NULL,"Wood, plaster, cardboard, oil-based ename",61.25 x 19.25 x 3”,1960
+159,User:1,2010.10.18.14.36.32 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 3,NER-477-MM,NULL,[Resource:216],NULL,NULL,mixed media on canvas,57 x 57”,958
+160,User:1,2010.10.18.14.37.58 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 1,NER-478-MM,NULL,[Resource:237],NULL,NULL,mixed media on canvas,60.25 x 50.25”,1958
+161,User:1,2010.10.18.14.38.59 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 7,NER-511-OC,NULL,[Resource:218],NULL,NULL,oil and collage on canvas,21.75 x 28.25”,1958
+162,User:1,2010.10.18.14.40.07 -0700,2011.03.29.17.56.45 -0700,"Collage Painting Study XV, 1958",NER-525-IN,NULL,[Resource:232],NULL,NULL,ink and mixed media on paper,11 x 8.5”,1958
+163,User:1,2010.10.18.14.40.43 -0700,2011.03.29.17.56.45 -0700,"Collage Painting Study II, 1958",NER-527-IN,NULL,[Resource:233],NULL,NULL,ink and mixed media onpaper,11 x 8.25”,1958
+164,User:1,2010.10.18.14.41.08 -0700,2011.03.29.17.56.45 -0700,"Collage Painting Study IV, 1958",NER-528-IN,NULL,[Resource:234],NULL,NULL,ink and mixed media on paper,11 x 8.5”,1958
+165,User:1,2010.10.18.14.41.40 -0700,2011.03.29.17.56.45 -0700,Collage Painting No. 6,NER-529-OC,NULL,[Resource:222],NULL,NULL,oil and collage on canvas,28.25 x 21.75”,1958
+166,User:1,2010.10.18.14.42.12 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:223],NULL,NULL,NULL,NULL,NULL
+168,User:1,2010.10.18.14.43.02 -0700,2011.03.29.17.56.45 -0700,NULL,NULL,NULL,[Resource:225],NULL,NULL,NULL,NULL,NULL
+169,User:1,2010.10.18.14.54.07 -0700,2011.03.29.17.56.45 -0700,Collage Drawing for Carla II,NER-532-MM,NULL,[Resource:231],NULL,NULL,mixed media,23.75 x 26”,1963
+170,User:1,2010.10.18.14.56.51 -0700,2011.03.29.17.56.45 -0700,Drawing for Moon Sculpture II,NER-534-MM,NULL,[Resource:235],NULL,NULL,mixed media,40 x 26”,1960
+171,User:1,2010.10.18.14.57.34 -0700,2011.03.29.17.56.45 -0700,Drawing for Moon Sculpture I,NER-535-MM,NULL,[Resource:236],NULL,NULL,mixed media,40 x 26”,1960
+175,User:1,2010.11.19.14.59.24 -0800,2011.03.29.17.56.45 -0700,In Memory of de Stael,STP-277-OC,NULL,[Resource:240],NULL,NULL,oil on canvas,"48 x 36""",2010
+176,User:1,2010.11.19.15.00.49 -0800,2011.03.29.17.56.45 -0700,Painter’s Cove,STP-270-OC,NULL,[Resource:265],not for homepage,NULL,oil on canvas,"36 x 48""",2009
+177,User:1,2010.11.19.15.06.36 -0800,2013.05.07.16.25.48 -0700,Opus No. 63-403,KSI-009-OC,NULL,[Resource:495],not for homepage,NULL,oil on canvas,"75 x 50""",1963
+178,User:1,2010.11.19.15.07.38 -0800,2011.03.29.17.56.45 -0700,Opus No. 65-J-2,KSI-007-OC,NULL,[Resource:243],NULL,NULL,oil on canvas,"34 x 34""",1965
+180,User:1,2010.11.19.15.11.56 -0800,2011.03.29.17.56.45 -0700,27 October 1949,LOB-186-OC,NULL,[Resource:245],NULL,NULL,oil on canvas,"92.75 x 78""",1949
+181,User:1,2010.11.19.15.13.09 -0800,2011.03.29.17.56.45 -0700,Untitled,LOB-058-GO,NULL,[Resource:246],NULL,NULL,gouache on paper,"15 x 10""",1946
+182,User:1,2010.11.19.15.15.20 -0800,2011.03.29.17.56.45 -0700,Untitled,WLA-038-SC,NULL,[Resource:247],NULL,NULL,waxed steel sculpture,"41 x 10 x 45.5""",1958
+183,User:1,2010.11.19.15.17.26 -0800,2011.03.29.17.56.45 -0700,Untitled,WOE-076-OC,NULL,[Resource:248],NULL,NULL,oil and acrylic on canvas,"30 x 24""",1991
+184,User:1,2010.11.19.15.24.21 -0800,2011.03.29.17.56.45 -0700,Untitled,WOE-056-OC,NULL,[Resource:249],NULL,NULL,"roof cement, oil and collage on canvas","39 x 36""",1957
+185,User:1,2010.11.19.15.26.45 -0800,2011.03.29.17.56.45 -0700,Homage to Dada,WOE-064-OC,NULL,[Resource:250],NULL,NULL,oil on canvas,"54 x 38""",1959
+186,User:1,2010.11.19.15.28.08 -0800,2011.03.29.17.56.45 -0700,The Parting One,WOE-133-OC,NULL,[Resource:251],NULL,NULL,oil on canvas,"42.25 x 30""",1954
+187,User:1,2011.01.05.11.50.07 -0800,2011.03.29.17.56.45 -0700,27 October 1949,LOB-186-OC,NULL,[Resource:254],NULL,NULL,oil on canvas,"92.75 x 78""",1949
+188,User:1,2011.01.05.12.28.22 -0800,2011.03.29.17.56.45 -0700,3 September 1948,LOB-128-OC,NULL,[Resource:255],NULL,NULL,oil on canvas,"92.5 x 41.75""",1948
+189,User:1,2011.01.05.12.29.53 -0800,2011.03.29.17.56.45 -0700,"Untitled, 1949",LOB-050-MM,NULL,[Resource:256],NULL,NULL,mixed-media on paper,"18 x 24""",1949
+190,User:1,2011.01.05.12.33.28 -0800,2011.03.29.17.56.45 -0700,"April 13, 1949",LOB-333-OC,NULL,[Resource:257],NULL,NULL,oil on canvas,"37.5 x 30""",1949
+191,User:1,2011.01.05.12.35.29 -0800,2011.03.29.17.56.45 -0700,17 February 1948,LOB-007-OC,NULL,[Resource:258],NULL,NULL,oil on canvas,"35.75 x 29.75""",1948
+192,User:1,2011.02.01.10.34.01 -0800,2013.05.07.17.03.46 -0700,In The Bedroom,HOG-004-OM,NULL,[Resource:497],normal,center,oil on board and frame,30.25 x 35.25,2004
+193,User:1,2011.02.25.11.18.18 -0800,2011.03.29.17.56.45 -0700,The Forest,STP-001-OC,NULL,[Resource:268],NULL,NULL,oil on canvas,"28 x 34""",1969
+194,User:1,2011.03.15.11.30.37 -0700,2011.03.29.17.56.45 -0700,Painter’s Cove,STP-270-OC,NULL,[Resource:270],normal,NULL,oil on canvas,"36 x 48""",2009
+195,User:1,2011.03.15.11.35.38 -0700,2011.03.29.17.56.45 -0700,Sunflower 3,STP-281-OC,NULL,[Resource:271],normal,NULL,oil on canvas,"48 x 36""",2010
+198,User:1,2011.03.15.12.27.28 -0700,2011.03.29.17.56.45 -0700,Marin 8,STP-284-OC,NULL,[Resource:274],NULL,NULL,oil on canvas,"40 x 60""",2010
+199,User:1,2011.03.15.12.29.31 -0700,2011.03.29.17.56.45 -0700,Another Sunshine Table with a Leftover Jar,STP-286-OC,NULL,[Resource:275],NULL,NULL,oil on canvas,"36 x 48""",2011
+200,User:1,2011.03.15.12.31.37 -0700,2011.03.29.17.56.45 -0700,Road to Redondo Shores,STP-287-OC,NULL,[Resource:276],NULL,NULL,oil on canvas,"48 x 36""",2010
+201,User:1,2011.03.15.12.32.13 -0700,2011.03.29.17.56.45 -0700,Red Barn #2,STP-290-OC,NULL,[Resource:277],NULL,NULL,oil on canvas,"36 x 48""",2010
+203,User:1,2011.03.15.12.44.28 -0700,2011.03.29.17.56.45 -0700,White Artichoke Fields,STP-279-OC,NULL,[Resource:279],NULL,NULL,oil on canvas,"36 x 48""",2010
+204,User:1,2011.03.15.12.45.38 -0700,2011.03.29.17.56.45 -0700,Marin 8,STP-284-OC,NULL,[Resource:280],NULL,NULL,oil on canvas,"40 x 60""",2010
+205,User:1,2011.03.15.12.46.50 -0700,2011.03.29.17.56.45 -0700,Another Sunshine Table with a Leftover Jar,STP-286-OC,NULL,[Resource:281],NULL,NULL,oil on canvas,"36 x 48""",2011
+206,User:1,2011.03.15.12.48.19 -0700,2011.07.07.15.28.36 -0700,Another Sunshine Table with a Leftover Jar,STP-286-OC,NULL,[Resource:394],NULL,NULL,oil on canvas,"36 x 48""",2011
+207,User:1,2011.03.15.12.49.07 -0700,2011.03.29.17.56.45 -0700,Road to Redondo Shores,STP-287-OC,NULL,[Resource:283],NULL,NULL,oil on canvas,"48 x 36""",2010
+209,User:1,2011.03.15.15.47.53 -0700,2011.03.29.17.56.45 -0700,Still Life with Three Objects,STP-245-OC,NULL,[Resource:285],normal,NULL,oil on canvas,"50 x 44""",2007
+210,User:1,2011.03.15.15.50.10 -0700,2011.03.29.17.56.45 -0700,Pear with a Cup,STP-283-OC,NULL,[Resource:286],NULL,NULL,oil on canvas,"48 x 36""",2010
+211,User:1,2011.03.15.15.57.18 -0700,2011.03.29.17.56.45 -0700,Still Life with Three Objects,STP-245-OC,NULL,[Resource:287],NULL,NULL,oil on canvas,"50 x 44""",2007
+212,User:1,2011.04.08.12.19.38 -0700,2011.04.08.12.32.51 -0700,Half Moon Bay,STP-294-OC,NULL,[Resource:279],NULL,NULL,oil on canvas,"36 x 48""",2011
+213,User:1,2011.04.08.12.31.44 -0700,2011.07.07.12.38.23 -0700,Red Barn #2,STP-290-OC,NULL,[Resource:399],NULL,NULL,oil on canvas,36 x 48”,2010
+214,User:1,2011.04.08.12.34.59 -0700,2011.07.07.12.00.04 -0700,The Pear and the Can,STP-280-OC,NULL,[Resource:396],NULL,NULL,oil on canvas,48 x 36”,2010
+216,User:1,2011.04.08.12.37.07 -0700,2011.07.07.12.39.01 -0700,Marin 8,STP-284-OC,NULL,[Resource:400],NULL,NULL,oil on canvas,"40 x 60""",2010
+217,User:1,2011.04.08.13.15.58 -0700,2011.07.07.11.54.26 -0700,Four Leftover Oranges from the Bygone Good Old,STP-292-OC,NULL,[Resource:393],NULL,NULL,oil on canvas,"36 x 48""",2011
+218,User:1,2011.04.08.13.17.24 -0700,2011.07.07.12.04.21 -0700,Barn in the Afternoon,STP-285-OC,NULL,[Resource:398],NULL,NULL,oil on canvas,"24 x 24""",2010
+219,User:1,2011.04.14.10.40.11 -0700,2011.04.14.10.41.26 -0700,Untitled,BIS-024-IN,NULL,[Resource:313],NULL,NULL,Ink on Paper,12 x 8.75,c. Prior to 1970
+220,User:1,2011.04.14.10.57.12 -0700,2011.04.14.10.58.47 -0700,Untitled,CAV-007-OC,NULL,[Resource:315],NULL,NULL,Oil on Canvas,24 x 20.25,1954
+221,User:1,2011.04.14.11.04.06 -0700,2011.04.14.11.04.06 -0700,Two Figures,DEN-004-OC,NULL,[Resource:316],NULL,NULL,Oil on Linen,34 x 30,1960
+222,User:1,2011.04.14.11.41.30 -0700,2011.04.14.11.41.30 -0700,Side View of Houses and Street,DEN-167-OC,NULL,[Resource:317],NULL,NULL,Oil on Canvas,17.75 x 20,NULL
+223,User:1,2011.04.14.12.54.03 -0700,2011.04.14.12.54.03 -0700,Untitled #122,DUG-014-AP,NULL,[Resource:318],NULL,NULL,Acrylic on Paper,19 x 24,1977
+224,User:1,2011.04.14.13.05.34 -0700,2013.01.15.16.03.15 -0800,Richmond I,FRB-003-SC,NULL,[Resource:319],not for homepage,NULL,Copper Sculpture,8.75 x 17 x 9.5,1974
+225,User:1,2011.04.14.13.42.10 -0700,2011.04.14.13.42.10 -0700,The Last Apartment #1,GLD-003-OP,NULL,[Resource:320],NULL,NULL,Oil on Paper Mounted on Canvas,17 x 14,1959
+226,User:1,2011.04.14.13.46.45 -0700,2011.04.14.13.46.45 -0700,Avila,GLD-004-OP,NULL,[Resource:321],NULL,NULL,Oil on Paper Mounted on Canvas,17 x 14,1959
+227,User:1,2011.04.14.13.48.04 -0700,2011.04.14.13.48.04 -0700,Untitled,GLD-005-OM,NULL,[Resource:322],NULL,NULL,Oil on Masonite,14 x 11,NULL
+228,User:1,2011.04.14.14.27.19 -0700,2011.04.14.14.27.19 -0700,Orange and Green with Lemon Disk: November 1966,HRN-002-OC,NULL,[Resource:323],NULL,NULL,Oil on Canvas,28 x 36,1966
+229,User:1,2011.04.14.14.28.48 -0700,2011.04.14.14.28.48 -0700,Untitled,HRN-003-GO,NULL,[Resource:324],NULL,NULL,Gouache on Paper,12.75 x 18.75,1980
+230,User:1,2011.04.14.14.33.48 -0700,2011.04.14.14.33.48 -0700,"Small, Medium, Large",HOG-006-OM,NULL,[Resource:325],NULL,NULL,Oil on Panel,27.75 x 36.5,2004
+231,User:1,2011.04.14.14.35.29 -0700,2011.04.14.14.35.29 -0700,Untitled,HOG-007-GO,NULL,[Resource:326],NULL,NULL,Gouache on Paper,8.25 x 11.5,1979
+232,User:1,2011.04.15.13.54.12 -0700,2011.04.15.13.54.12 -0700,A Meeting Ground: Imaginary Portrait #11: Chester Vielalba and Robert Steinberg,JES-004-OC,NULL,[Resource:327],NULL,NULL,oil on canvas,"34 x 36""",1954
+233,User:1,2011.04.15.16.25.25 -0700,2011.04.15.16.25.25 -0700,Rice Paper Abstract,KLI-008-IN,NULL,[Resource:328],NULL,NULL,ink and mixed media,"11 x 8.5""",1949
+234,User:1,2011.04.15.16.28.31 -0700,2011.04.15.16.28.31 -0700,The Bird Cage,MRC-010-MM,NULL,[Resource:329],NULL,NULL,mixed media collage,"43 x 27""",1981-82
+235,User:1,2011.04.15.16.31.22 -0700,2011.04.15.16.31.22 -0700,Cigarra,MIL-004-OP,NULL,[Resource:330],NULL,NULL,oil on paper,"19.5 x 25.5""",1965
+236,User:1,2011.04.15.16.33.08 -0700,2011.04.15.16.33.08 -0700,Untitled,MIL-005-GO,NULL,[Resource:331],NULL,NULL,gouache on paper,"27.5 x 39""",1961
+237,User:1,2011.04.15.16.36.49 -0700,2011.04.15.16.36.49 -0700,Landscape Ting,MIT-022-OC,NULL,[Resource:332],NULL,NULL,oil on canvas,"67 x 48""",1964
+238,User:1,2011.04.15.16.39.12 -0700,2011.04.15.16.39.33 -0700,Canada V (in 2 parts),MIT-023-OC,NULL,[Resource:334],NULL,NULL,oil on canvas,45 x 70.25,1976
+239,User:1,2011.04.15.16.45.17 -0700,2011.04.15.17.19.12 -0700,Erupting,MOT-017-MM,NULL,[Resource:337],NULL,NULL,oil and collage on canvas mounted on panel,34 x 34,1987
+240,User:1,2011.04.15.16.49.40 -0700,2011.04.15.16.49.40 -0700,"The Figure ""4"" #2",MOT-019-MM,NULL,[Resource:336],NULL,NULL,"acrylic, sepia ink, and collage elements on paperboard",22.75 x 13.75,1966
+241,User:1,2011.04.15.17.25.34 -0700,2011.04.15.17.25.34 -0700,Standing Figure,NAD-049-SC,NULL,[Resource:338],NULL,NULL,bronze sculpture,"10.625 x 3.5 x 2.625""",1981
+242,User:1,2011.04.27.10.11.39 -0700,2011.04.27.10.11.39 -0700,May Queen,BLM-001-AP,NULL,[Resource:339],NULL,NULL,acrylic on paper,"31 x 22.5""",1964
+243,User:1,2011.04.27.10.13.58 -0700,2011.04.27.10.13.58 -0700,Untitled,BLM-003-GO,NULL,[Resource:340],NULL,NULL,"watercolor, gouache, graphite and ink on paper","28 x 38.75""",1960
+244,User:1,2011.04.27.10.15.48 -0700,2011.04.27.10.15.48 -0700,Steel Grass,BLM-002-OP,NULL,[Resource:341],NULL,NULL,oil on paper,22.5 x 30.25,1964
+245,User:1,2011.04.27.10.16.58 -0700,2011.04.27.11.05.33 -0700,Untitled,BLM-005-OP,NULL,[Resource:342],NULL,NULL,oil on paper,"30 x 22.25""",1967
+246,User:1,2011.04.27.10.18.43 -0700,2011.04.27.10.18.43 -0700,Untitled,CHH-001-WC,NULL,[Resource:343],NULL,NULL,watercolor on paper,51.5 x 13,1958
+247,User:1,2011.04.27.10.23.49 -0700,2011.04.27.10.56.18 -0700,Untitled,FRA-008-AP,NULL,[Resource:344],NULL,NULL,acrylic on paper,"27.75 x 22""",1968
+248,User:1,2011.04.27.11.12.39 -0700,2013.01.15.16.02.49 -0800,The Masked Rider,GRH-002-IN,NULL,[Resource:345],not for homepage,NULL,pen and ink on paper,"9 x 12""",1931
+249,User:1,2011.04.27.11.19.21 -0700,2013.01.15.16.02.59 -0800,Untitled,GRH-004-OC,NULL,[Resource:347],not for homepage,NULL,oil on canvas,17 x 14,1943
+250,User:1,2011.04.27.15.03.33 -0700,2011.04.27.15.03.33 -0700,Color Floating in Time,HRI-001-MM,NULL,[Resource:348],NULL,NULL,mixed media collage,"26 x 42.5""",1967
+251,User:1,2011.04.27.16.19.50 -0700,2011.04.27.16.19.50 -0700,Cosmic Dust,IWA-001-OC,NULL,[Resource:349],NULL,NULL,casein and varnish,"51.75 x 71.25""",1958
+252,User:1,2011.04.27.16.22.54 -0700,2011.04.27.16.22.54 -0700,Greer Garson Collage,JHN-001-MM,NULL,[Resource:350],NULL,NULL,mixed media collage,12.5 x 10.75,1975
+253,User:1,2011.04.27.16.28.47 -0700,2011.04.27.16.28.47 -0700,The Three For and Lai Book,JHN-003-MM,NULL,[Resource:351],NULL,NULL,mixed media book,"8.25 x 6.75 x .5""",1955
+254,User:1,2011.04.27.16.32.32 -0700,2011.04.27.16.32.32 -0700,Cat,KMU-001-IN,NULL,[Resource:352],NULL,NULL,ink on paper,"26 x 20""",1958
+255,User:1,2011.04.27.16.34.20 -0700,2011.04.27.16.34.40 -0700,# 18,KMU-008-AP,NULL,[Resource:354],NULL,NULL,acrylic on paper,"17 x 14""",1963
+256,User:1,2011.04.27.16.45.14 -0700,2011.04.27.16.45.14 -0700,Beginning of the Beginning,OCH-001-MM,NULL,[Resource:355],NULL,NULL,mixed media on canvas,"24 x 15""",c. 1960
+257,User:1,2011.04.27.16.49.16 -0700,2011.04.27.16.49.16 -0700,Untitled,OKO-001-OC,NULL,[Resource:356],NULL,NULL,oil on canvas,"48.75 x 40""",c. 1970
+258,User:1,2011.04.27.16.50.53 -0700,2011.04.27.16.50.53 -0700,Untitled,OKO-002-OC,NULL,[Resource:357],NULL,NULL,oil on canvas,"50.25 x 38.25""",c. 1970
+259,User:1,2011.04.27.16.54.21 -0700,2011.04.27.16.54.21 -0700,Thinking Nothing but Nothing,OKO-003-OC,NULL,[Resource:358],NULL,NULL,oil on canvas,"50 x 40""",c. 1965
+260,User:1,2011.04.27.16.56.48 -0700,2011.04.27.16.56.48 -0700,Moon,OKO-030-OC,NULL,[Resource:359],NULL,NULL,oil on canvas,"44 x 35""",1960
+261,User:1,2011.04.27.17.00.44 -0700,2011.04.27.17.00.44 -0700,Woman on Hill,PET-075-OC,NULL,[Resource:360],NULL,NULL,oil on canvas,"49.5 x 48""",1962
+262,User:1,2011.04.27.17.03.52 -0700,2011.04.27.17.03.52 -0700,Shaded Picnic,PET-087-OC,NULL,[Resource:361],NULL,NULL,oil on canvas,"48.25 x 68.25""",1967
+263,User:1,2011.04.27.17.05.31 -0700,2011.04.27.17.05.31 -0700,Figure with Tables,PET-107-OC,NULL,[Resource:362],NULL,NULL,oil on canvas,38.75 x 47.75,1962
+264,User:1,2011.04.27.17.07.18 -0700,2011.04.27.17.07.18 -0700,Picnic,PET-081-OC,NULL,[Resource:363],NULL,NULL,oil on canvas,"44 x 37""",1962
+265,User:1,2011.04.28.10.22.07 -0700,2013.01.30.16.16.19 -0800,Del Nosotro Tempo,VED-001-OP,NULL,[Resource:364],normal,NULL,oil and mixed media on paper mounted on cardboard,12.25 x 9.25,1950
+268,User:1,2011.04.28.10.26.12 -0700,2011.04.28.10.26.12 -0700,Infinity Field Creten - Series Rizitika #1,STM-009-AC,NULL,[Resource:367],NULL,NULL,acrylic on canvas,"60 x 50""",1983
+269,User:1,2011.04.28.10.27.23 -0700,2011.04.28.10.27.23 -0700,"Infinity Field, Lefkada Series III",STM-011-GO,NULL,[Resource:368],NULL,NULL,gouache on paper,"22.25 x 30.25""",1974
+270,User:1,2011.04.28.10.31.13 -0700,2011.04.28.10.31.13 -0700,Kumarata I,SZK-001-OC,NULL,[Resource:369],NULL,NULL,oil on canvas,28.25 x 15.25,1960
+271,User:1,2011.04.28.10.33.42 -0700,2011.04.28.10.33.42 -0700,Abstraction,SZK-002-OC,NULL,[Resource:370],NULL,NULL,oil on canvas,29 x 20,1960
+272,User:1,2011.04.28.10.42.10 -0700,2011.04.28.10.42.30 -0700,Collage # 5,VIC-039-MM,NULL,[Resource:371],NULL,NULL,charcoal and pencil mixed media paper collage,"6 x 6""",1959
+273,User:1,2011.04.28.10.46.19 -0700,2011.04.28.10.46.35 -0700,Untitled,VIC-048-OC,NULL,[Resource:372],NULL,NULL,oil on canvas,"15 x 21""",1960
+275,User:1,2011.06.23.16.35.11 -0700,2013.01.15.16.05.52 -0800,Box Fish Kabinet ,BEK-004-SC,NULL,[Resource:379],not for homepage,NULL,"boxwood, ebony, leather and brass sculpture","2.625 x 4.5 x 3.25""",2009
+276,User:1,2011.06.23.16.36.25 -0700,2013.01.15.16.06.01 -0800,Box Turtle Box ,BEK-003-SC,NULL,[Resource:380],not for homepage,NULL,"boxwood, ebony, leather and brass  sculpture","2.25 x 3.625 x 2.75""",2009
+277,User:1,2011.07.07.11.32.34 -0700,2011.07.07.15.26.23 -0700,Boxed Form I,WLA-047-SC,NULL,[Resource:381],NULL,NULL,painted steel,"47 x 37 x 52""",1963
+278,User:1,2011.07.07.11.33.18 -0700,2011.07.27.15.07.54 -0700,Boxed Jenny,WLA-046-SC,NULL,[Resource:405],NULL,NULL,painted steel,"50 x 27 x 66""",1962
+279,User:1,2011.07.07.11.34.39 -0700,2011.07.07.11.34.39 -0700,Sculpture 7-4N,WLA-045-SC,NULL,[Resource:383],NULL,NULL,painted steel,"30 x 15 x 48""",1960
+280,User:1,2011.07.07.11.37.08 -0700,2011.07.07.11.37.32 -0700,All Black I,WLA-044-SC,NULL,[Resource:385],NULL,NULL,painted steel,"23 x 9 x 24""",1961
+281,User:1,2011.07.07.11.38.20 -0700,2011.07.07.11.38.20 -0700,Standing Form XX,WLA-043-SC,NULL,[Resource:386],NULL,NULL,painted steel,73 x 40 x 40,1958
+282,User:1,2011.07.07.11.38.58 -0700,2011.07.07.11.38.58 -0700,Caldo Nero,WLA-042,NULL,[Resource:387],NULL,NULL,steel,28 x 5 x 41,1958
+283,User:1,2011.07.07.11.39.52 -0700,2011.07.07.11.39.52 -0700,Untitled,WLA-041-SC,NULL,[Resource:388],NULL,NULL,painted steel,"34 x 15 x 61""",1957
+284,User:1,2011.07.07.11.40.45 -0700,2011.07.07.11.40.45 -0700,Form Y1,WLA-027-SC,NULL,[Resource:389],NULL,NULL,painted steel,"51 x 43 x 24""",1959
+285,User:1,2011.07.07.11.41.52 -0700,2011.07.07.11.41.52 -0700,Double,WLA-048-SC,NULL,[Resource:390],NULL,NULL,painted steel,"16 x 28 x 17""",1961
+286,User:1,2011.07.07.11.42.44 -0700,2011.07.07.11.42.44 -0700,Six Black II,WLA-037-SC,NULL,[Resource:391],NULL,NULL,painted steel,"46 x 38 x 17""",1961
+287,User:1,2011.07.07.11.43.33 -0700,2011.07.07.11.43.33 -0700,Untitled,WLA-038-SC,NULL,[Resource:392],NULL,NULL,waxed steel,"41 x 10 x 45.5""",1958
+288,User:1,2011.07.07.11.59.01 -0700,2011.07.07.12.02.33 -0700,The Dunes of Florence,STP-271-OC,NULL,[Resource:397],NULL,NULL,oil on canvas,"36 x 48""",2010
+289,User:1,2011.07.07.12.40.15 -0700,2011.07.07.12.40.15 -0700,Half Moon Bay,STP-294-OC,NULL,[Resource:401],NULL,NULL,oil on canvas,"36 x 48""",2011
+290,User:1,2011.07.07.12.41.30 -0700,2011.07.07.12.43.37 -0700,"Still Life with Some Unneeded, Painted-Out Objects",STP-293-OC,NULL,[Resource:402],NULL,NULL,oil on canvas,"36 x 48""",2011
+291,User:1,2011.07.07.12.42.21 -0700,2011.07.07.12.43.27 -0700,House on a Lake,STP-295-OC,NULL,[Resource:403],NULL,NULL,oil on canvas,"24 x 24""",2008
+292,User:1,2011.07.27.15.04.39 -0700,2011.07.27.15.47.10 -0700,Installation View at Hackett | Mill,,NULL,[Resource:404],NULL,NULL,,NULL,2011
+293,User:1,2011.09.28.15.41.26 -0700,2011.10.14.11.26.22 -0700,"'Spheroid', Herbert Ferber",FRB-001-SC,NULL,[Resource:407],NULL,NULL,copper sculpture,"40 x 20.5""",1954-62
+294,User:1,2011.09.28.15.42.20 -0700,2011.10.14.11.26.46 -0700,"'Blue Open', Robert Motherwell",MOT-037-AC,NULL,[Resource:408],NULL,NULL,acrylic and charcoal on canvas,"48 x 36""",c. 1974
+295,User:1,2011.09.28.15.43.07 -0700,2011.10.14.11.27.34 -0700,"'Opus No. 61-313', Masatoyo Kishi",KSI-001-OC,NULL,[Resource:409],NULL,NULL,oil on canvas,"54 x 94""",1961
+296,User:1,2011.09.28.15.53.09 -0700,2011.09.28.15.53.09 -0700,Space Ritual #3,TOB-001-IN,NULL,[Resource:410],NULL,NULL,ink on paper laid down on board,"29 x 21""",1957
+297,User:1,2011.09.28.15.56.11 -0700,2011.09.28.15.56.11 -0700,Opus No. 59-74,KSI-013-OC,NULL,[Resource:411],NULL,NULL,oil on canvas,"50 x 50""",1959
+298,User:1,2011.09.28.16.02.10 -0700,2011.09.28.16.02.10 -0700,Image #21,OKM-002-OC,NULL,[Resource:412],NULL,NULL,oil on canvas,"42 x 23""",1957
+299,User:1,2011.09.28.16.05.08 -0700,2011.10.14.11.28.08 -0700,"'Spring Outside', Sueo Serisawa",SAW-002-OM,NULL,[Resource:413],NULL,NULL,oil on gold,"12 x 16""",1959
+300,User:1,2011.09.28.16.11.03 -0700,2011.10.14.11.28.29 -0700,"'Reading the Letter', Howard Hodgkin",HOG-008-OM,NULL,[Resource:414],NULL,NULL,oil on panel,"17.75 x 20""",1977-80
+301,User:1,2011.09.28.16.12.56 -0700,2011.10.14.11.28.54 -0700,"'Kumi', Kazuo Shiraga",SGA-001-OC,NULL,[Resource:415],NULL,NULL,oil on canvas,"46 x 32""",1954
+302,User:1,2011.09.28.16.31.27 -0700,2011.10.14.11.29.11 -0700,"'Night Scroll', Kenzo Okada",OKD-007-OC,<ROOT><P> </P></ROOT>,[Resource:416],NULL,NULL,oil on canvas,"58 x 40.25""",1956
+303,User:1,2011.09.28.16.35.20 -0700,2011.10.14.11.29.25 -0700,"'Untitled', Lee Krasner",KRS-002-OC,NULL,[Resource:418],NULL,NULL,"oil, enamel on canvas","28 x 17""",1948-49
+304,User:1,2011.10.06.11.23.12 -0700,2011.10.06.11.23.12 -0700,Makida I,NER-244-SC,NULL,[Resource:419],NULL,NULL,marble sculpture with oil-based enamel paint,"24.25 x 16.25 x 22.25""",1994-97
+305,User:1,2011.10.07.13.57.18 -0700,2011.10.07.13.57.18 -0700,Makida I,NER-244-SC,NULL,[Resource:420],NULL,NULL,marble sculpture with oil-based enamel paint,"24.25 x 16.25 x 22.25""",1994-97
+306,User:1,2011.10.07.14.25.29 -0700,2011.10.14.11.29.42 -0700,"'Makida I', Manuel Neri",NER-244-SC,<ROOT/>,[Resource:421],NULL,NULL,marble sculpture with oil-based enamel paint,24.25 x 16.25 x 22.25,1994-97
+307,User:1,2011.10.07.14.27.26 -0700,2011.10.14.11.35.19 -0700,"'Maquette for Monumental Sculpture XI', Louise Nevelson",NEV-037-SC,NULL,[Resource:424],NULL,NULL,wood painted black,26.75 x 6.5 x 5.5,1976
+308,User:1,2011.10.07.14.29.01 -0700,2011.10.14.11.31.39 -0700,"'Untitled', Ruth Asawa",ASA-002-SC,NULL,[Resource:423],NULL,NULL,brass and copper,"132 x 19 x 21""",c. 1960
+309,User:1,2011.10.14.11.33.29 -0700,2011.10.14.11.36.11 -0700,"'Composition', Franz Kline",KLI-011-OP,NULL,[Resource:425],NULL,NULL,oil on paper mounted on canvas,"11 x 8.5""",1953
+310,User:1,2012.01.03.13.22.55 -0800,2012.01.03.13.22.55 -0800,The Parting One,WOE-133-OC,NULL,[Resource:426],NULL,NULL,oil on canvas,"42.25 x 30""",1954
+311,User:1,2012.01.05.14.50.46 -0800,2012.01.06.13.30.25 -0800,    ,ArtNews December 2011,<ROOT><P>    </P></ROOT>,[Resource:427],NULL,NULL,    ,    ,    
+312,User:1,2012.04.26.11.56.12 -0700,2012.04.26.11.56.12 -0700,NULL,NULL,"<ROOT><P>Hours:</P><P> </P><P>Thursday, May 17, 2012 - 6:00pm to 8:00pm</P><P>Opening Night Benefit Preview Reception</P><P> </P><P>Thursday, May 17, 2012 - 8:00pm to 10:00pm</P><P>Opening Night Party</P><P> </P><P>Regular Fair Hours:</P><P>Friday, May 18, 2012 - 11:00am to 7:00pm</P><P>Saturday, May 19, 2012 - 11:00am to 7:00pm</P><P>Sunday, May 20, 2012 - Noon to 6:00pm</P><P>Venue:</P><P> </P><P>Concourse Exhibition Center</P><P>620 7th Street at Brannan</P><P>San Francisco, CA </P></ROOT>",NULL,NULL,NULL,NULL,NULL,NULL
+313,User:1,2012.04.26.11.56.52 -0700,2012.04.26.11.56.52 -0700,NULL,NULL,"<ROOT><P>Hours:</P><P> </P><P>Thursday, May 17, 2012 - 6:00pm to 8:00pm</P><P>Opening Night Benefit Preview Reception</P><P> </P><P>Thursday, May 17, 2012 - 8:00pm to 10:00pm</P><P>Opening Night Party</P><P> </P><P>Regular Fair Hours:</P><P>Friday, May 18, 2012 - 11:00am to 7:00pm</P><P>Saturday, May 19, 2012 - 11:00am to 7:00pm</P><P>Sunday, May 20, 2012 - Noon to 6:00pm</P><P>Venue:</P><P> </P><P>Concourse Exhibition Center</P><P>620 7th Street at Brannan</P><P>San Francisco, CA </P></ROOT>",NULL,NULL,NULL,NULL,NULL,NULL
+316,User:1,2012.12.18.14.58.37 -0800,2013.01.30.17.00.00 -0800,Installation View,   ,<ROOT><P> </P><P>   </P></ROOT>,"[Resource:442,Resource:441,Resource:440]",normal,center,   ,   ,   
+317,User:1,2012.12.20.20.21.36 -0800,2012.12.21.11.27.55 -0800,Installation View,NULL,<ROOT><P> </P></ROOT>,[Resource:444],NULL,NULL,, , 
+319,User:1,2012.12.21.09.35.50 -0800,2012.12.21.11.27.42 -0800,Installation View,NULL,<ROOT><P> </P></ROOT>,[Resource:441],NULL,NULL,, , 
+320,User:1,2012.12.21.09.36.49 -0800,2012.12.21.11.27.31 -0800,Installation View,NULL,<ROOT><P> </P></ROOT>,[Resource:445],NULL,NULL,,  ,  
+321,User:1,2013.01.11.15.26.58 -0800,2013.01.30.14.20.11 -0800,Installation View,NULL,NULL,[Resource:449],not for homepage,NULL,NULL,NULL,NULL
+322,User:1,2013.01.30.13.40.00 -0800,2013.01.30.15.51.01 -0800,Blue Open,MOT-037-AC,NULL,[Resource:450],normal,NULL,acrylic and charcoal on canvas,"48 x 36""",c. 1974
+323,User:1,2013.01.30.13.48.06 -0800,2013.01.30.15.51.12 -0800,Sirens,TWO-007-OC,NULL,[Resource:451],normal,NULL,oil on canvas,"45 x 40""",1951
+324,User:1,2013.01.30.13.49.44 -0800,2013.01.30.15.51.23 -0800,The Sentinel,MRC-016-MM,NULL,[Resource:452],normal,NULL,painted collage on canvas,"77.5 x 51""",1961
+325,User:1,2013.01.30.13.51.55 -0800,2013.05.07.17.23.23 -0700,Untitled,MIT-033-OC,NULL,[Resource:508],normal,NULL,oil on canvas,"31.75 x 25.5""",1983-84
+326,User:1,2013.01.30.13.55.02 -0800,2013.01.30.15.51.51 -0800,The Green Huntsman,DBK-109-OC,NULL,[Resource:454],normal,NULL,oil on canvas,"42.75 x 69.5""",1952
+327,User:1,2013.01.30.13.56.58 -0800,2013.05.07.17.06.46 -0700,July 25 (1979),HRN-001-OC,NULL,[Resource:499],normal,NULL,oil on canvas,"12 x 14""",1979
+328,User:1,2013.01.30.13.58.59 -0800,2013.01.30.15.52.14 -0800,Plaster Loop II ,NER-585-SC,NULL,[Resource:456],not for homepage,NULL,"plaster, oil-based enamel, wood, chicken wire, burlap ","43 x 24 x 7""",c. 1960
+329,User:1,2013.01.30.14.00.13 -0800,2013.01.30.15.52.25 -0800,Untitled (1965-6),STN-004-SC,NULL,[Resource:457],normal,NULL,welded steel sculpture,"9.25 x 38.5 x 6""",1965-66
+330,User:1,2013.01.30.14.02.40 -0800,2013.05.07.17.07.31 -0700,Collage # 5,VIC-039-MM,NULL,[Resource:500],normal,NULL,charcoal and pencil mixed media paper collage,"6 x 6""",1959
+331,User:1,2013.01.30.14.04.14 -0800,2013.05.07.17.12.26 -0700,Ryuju-san,SGA-002-OC,NULL,[Resource:501],normal,NULL,oil on canvas,"38.25 x 51.25""",1975
+332,User:1,2013.01.30.14.11.40 -0800,2013.01.30.15.53.17 -0800,Del Nostro Tempo,VED-001-OP,NULL,[Resource:460],normal,NULL,oil and mixed media on paper mounted on cardboard,12.25 x 9.25,1950
+333,User:1,2013.01.30.14.13.23 -0800,2013.01.30.15.54.00 -0800,Untitled,WLA-052-SC,<ROOT><P>Brian Wall</P></ROOT>,[Resource:461],not for homepage,NULL,painted steel,"35 x 33 x 47""",1963-64
+334,User:1,2013.01.30.14.14.21 -0800,2013.01.30.15.54.56 -0800,All Black I,WLA-044-SC,NULL,[Resource:462],not for homepage,NULL,painted steel,"23 x 9 x 24""",1961
+335,User:1,2013.01.30.14.15.30 -0800,2013.05.07.17.14.58 -0700,Surprise,HOG-010-OM,NULL,[Resource:504],normal,NULL,oil on panel,"15.75 x 17.125""",2006
+336,User:1,2013.01.30.14.16.38 -0800,2013.05.07.17.13.14 -0700,Strictly Personal,HOG-011-OM,NULL,[Resource:502],normal,NULL,oil on wood,"12.625 x 16.5""",2004-06
+337,User:1,2013.01.30.14.19.07 -0800,2013.05.07.17.13.39 -0700,In the Bedroom,HOG-004-OM,NULL,[Resource:503],normal,NULL,oil on board and frame,"30.25 x 35.25""",2004-05
+338,User:1,2013.01.30.14.27.02 -0800,2013.01.30.15.56.03 -0800,Pyjamas,HOG-002-OM,NULL,[Resource:466],normal,NULL,oil on panel,"14 x 16""",2004
+344,User:1,2013.01.31.16.57.32 -0800,2013.01.31.19.26.17 -0800,Installation View,   ,<ROOT><P>   </P><P>  </P></ROOT>,[Resource:472],NULL,NULL,   ,   ,   
+345,User:1,2013.01.31.17.02.01 -0800,2013.01.31.17.02.01 -0800,Installation View, ,<ROOT><P> </P></ROOT>,[Resource:473],not for homepage,NULL, , , 
+346,User:1,2013.01.31.17.03.23 -0800,2013.01.31.17.03.23 -0800,Installation View, ,<ROOT><P> </P></ROOT>,[Resource:474],not for homepage,NULL, , , 
+347,User:1,2013.01.31.17.06.05 -0800,2013.01.31.17.06.05 -0800,Installation View, ,<ROOT><P> </P></ROOT>,[Resource:475],not for homepage,NULL, , , 
+348,User:1,2013.02.01.15.51.53 -0800,2013.02.01.15.51.53 -0800,Installation View, ,<ROOT><P> </P></ROOT>,[Resource:476],not for homepage,NULL, , , 
+349,User:1,2013.04.04.16.08.23 -0700,2013.04.04.16.08.23 -0700,Empty Docks in Blue,STP-311-OC,NULL,NULL,NULL,NULL,oil on canvas,36 x 48 inches,2012
+350,User:1,2013.04.04.16.13.45 -0700,2013.04.11.13.15.15 -0700,Empty Docks in Blue,STP-311-OC,NULL,[Resource:483],NULL,NULL,oil on canvas,"36 x 48""",2012
+351,User:1,2013.04.04.16.24.51 -0700,2013.04.11.13.14.09 -0700,Still Life with a Single Studio Item,STP-314-OC,NULL,[Resource:482],NULL,NULL,oil on canvas,"36 x 48""",2010
+352,User:1,2013.04.04.16.32.28 -0700,2013.04.04.16.32.28 -0700,Liang,WLA-051-SC,NULL,[Resource:479],NULL,NULL,stainless steel,"12.5 x 11 x 7""",2009
+353,User:1,2013.04.04.16.35.08 -0700,2013.04.04.16.35.08 -0700,Yan,WLA-049-SC,NULL,[Resource:480],NULL,NULL,stainless steel,"15 x 11.5 x 6""",2009
+354,User:1,2013.04.05.14.42.55 -0700,2013.04.11.13.53.42 -0700,House with the Red Door,STP-307-OC,NULL,[Resource:484],NULL,NULL,oil on canvas,"48 x 36""",2013
+355,User:1,2013.04.11.15.38.05 -0700,2013.04.11.15.38.05 -0700,Red Still Life with a Brush,STP-313-OC,NULL,[Resource:485],NULL,NULL,oil on canvas,"48 x 36""",2013
+356,User:1,2013.05.07.11.15.14 -0700,2013.05.07.11.15.14 -0700,Couple of Girls,BRN-016-MM,NULL,[Resource:486],NULL,NULL,water-based pigments on paper,"24 x 30""",NULL
+357,User:1,2013.05.07.11.18.15 -0700,2013.05.07.11.18.15 -0700,Two Figures,DEN-004-OC,NULL,[Resource:487],NULL,NULL,oil on linen,"34 x 30""",1960
+358,User:1,2013.05.07.11.20.44 -0700,2013.05.07.11.20.44 -0700,Gold and Black,DUG-010-OC,NULL,[Resource:488],NULL,NULL,oil on canvas,"77 x 58.5""",1959
+359,User:1,2013.05.07.11.23.53 -0700,2013.05.07.11.23.53 -0700,Pale Woman with Gloves,OLI-026-GO,NULL,[Resource:489],NULL,NULL,gouache on board,"25.5 x 20.25""",1961
+360,User:1,2013.05.07.17.05.25 -0700,2013.05.07.17.05.25 -0700,Ryuju-san,SGA-002-OC,NULL,[Resource:498],NULL,NULL,oil on canvas,"38.25 x 51.25""",1975
+361,User:1,2013.05.15.13.52.59 -0700,2013.05.15.13.53.17 -0700,Storm Departing,STP-315-OC,NULL,[Resource:509],NULL,NULL,oil on canvas,"36 x 48""",2012
+362,User:1,2013.05.15.13.54.03 -0700,2013.08.16.17.09.36 -0700,Tall Flower,STP-312-OC,NULL,[Resource:510],normal,center,oil on canvas,"48 x 36""",2012
+363,User:1,2013.05.15.13.59.58 -0700,2013.05.15.14.03.08 -0700, , ,<ROOT><P> </P></ROOT>,[Resource:511],NULL,NULL, , , 
+367,User:1,2013.08.21.13.37.56 -0700,2013.08.21.13.37.56 -0700,Tut Pink,OSI-031-AC,NULL,[Resource:517],normal,center,acrylic on canvas,"97 x 69""",1965
+369,User:1,2013.09.06.15.48.40 -0700,2013.09.06.15.48.40 -0700,Pink Hoodoo,OSI-032-AC,NULL,[Resource:519],NULL,NULL,acrylic on canvas,"56 x 52""",1965
+370,User:1,2013.09.06.15.49.30 -0700,2013.09.06.15.49.40 -0700,Yellow Hoodoo,OSI-030-AC,NULL,[Resource:521],NULL,NULL,acrylic on canvas,"83 x 83""",1965
+371,User:1,2013.09.06.15.50.32 -0700,2013.09.06.15.50.32 -0700,Bem-Two,OSI-028-AC,NULL,[Resource:522],NULL,NULL,acrylic on canvas,"39.5 x 101""",1968
+372,User:1,2013.09.06.15.51.34 -0700,2013.09.06.15.55.31 -0700,Wangler,OSI-027-AC,NULL,[Resource:523],NULL,NULL,acrylic on canvas,"41.25 x 22.75""",1969
+373,User:1,2013.09.06.15.53.44 -0700,2013.09.06.15.53.44 -0700,Bronze Light,OSI-033-AC,NULL,[Resource:524],NULL,NULL,acrylic on canvas,"66.25 x 18""",1966
+374,User:1,2013.09.06.15.54.54 -0700,2013.09.06.15.54.54 -0700,Purple Love,OSI-029-AC,NULL,[Resource:525],NULL,NULL,acrylic on canvas,"43.25 x 30""",1968
+375,User:1,2013.09.25.14.55.32 -0700,2013.09.25.14.55.32 -0700,Marin # 11,STP-319-OC,NULL,[Resource:526],NULL,NULL,oil on canvas,"40 x 60""",2013
+376,User:1,2013.09.25.14.56.36 -0700,2013.09.25.14.56.36 -0700,Desert Beach with Boat Departing,STP-318-OC,NULL,[Resource:527],NULL,NULL,oil on canvas,"48 x 36""",2013
+377,User:1,2013.11.07.16.05.44 -0800,2013.11.07.16.05.44 -0800,Pisano Torso,NER-619-SC,NULL,[Resource:529],NULL,NULL,marble,"34.5 x 38.5 x 20""",1985
+378,User:1,2013.12.18.12.15.58 -0800,2013.12.18.12.45.39 -0800,NULL,NULL,NULL,[Resource:530],just for homepage,NULL,NULL,NULL,NULL

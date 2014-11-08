@@ -1,0 +1,207 @@
+
+* {
+    font-family: "Helvetica Neue", sans-serif;
+    color: #6B6A6A;
+    font-size: 18px;
+}
+
+body {
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding:0;
+}
+p {
+    margin-top: 0;
+}
+button {
+    background-color:#eee;
+    border:0;
+    color:#333;
+}
+#root {
+    margin: 20px 20px 0 0;
+    z-index: 2;
+    max-width: 1150px;
+}
+
+#root ul {
+    list-style-type: none;
+    margin: 25px 0 0 0;
+    padding: 0;
+}
+
+#root li {
+    font-size: 13px;
+    color: #333;
+    padding-bottom: 10px;
+    letter-spacing: .01em;
+}
+
+h1, .bighead {
+    font-size: 64px;
+    font-weight: 700;
+    color: #111;
+    letter-spacing: 1px;
+}
+
+.bighead-barleft {
+    border-left: 16px solid #111;
+    padding: 64px 64px 48px 64px;
+}
+
+.bigbody {
+    font-family: "Helvetica Neue", sans-serif;
+    font-size: 23px;
+    line-height: 38px;
+    color: #444;
+}
+
+.bigpadright {
+    padding-right: 20%;
+}
+
+.padboth {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+h3, .head {
+    color: #333;
+}
+
+.capabilities h3 {
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    border-bottom: 3px solid #eee;
+}
+
+.capabilities h3:hover {
+    border-bottom: 3px solid #111;
+}
+
+.medium {
+    font-size: 24px;
+    color: #333;
+    padding-top: 15px;
+}
+
+.prompt {
+    padding: 10px 20px 0 0;
+    letter-spacing: .02em;
+}
+
+#root a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #666;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#root a:hover {
+    background-color: #111;
+    color: #fff;
+}
+
+#root form {
+    line-height: 20px;
+}
+
+label {
+    font-size: 14px;
+    letter-spacing: 1px;
+    display:block;
+}
+
+input, textarea {
+    font-family: "Helvetica Neue";
+    font-size: 17px;
+    padding: 4px;
+    margin: 0 0 8px 0;
+    border: 1px solid #777;
+}
+
+.topline {
+    margin-top: 80px;
+    border-top: 1px solid #111;
+}
+
+/* overlay */
+@media only screen and (min-width: 850px) {
+    #overlay {
+        position: absolute;
+        top: 120px;
+        left: 1000px;
+        width: 400px;
+        height: 400px;
+        background-color: #fff;
+        display: none;
+    }
+}
+
+/**** smaller */
+
+/*@media only screen and (max-width: 1150px) {*/
+    /** {*/
+        /*font-size: 14px;*/
+    /*}*/
+
+    /*h1, .bighead {*/
+        /*font-size: 50px;*/
+    /*}*/
+
+    /*#root {*/
+    /*}*/
+
+    /*.bigpadright {*/
+        /*padding-right: 10%;*/
+    /*}*/
+
+    /*.topline {*/
+        /*margin-top: 65px;*/
+    /*}*/
+/*}*/
+
+
+/*@media only screen and (max-width: 850px) {*/
+
+    /*#root {*/
+        /*margin-top: 0;*/
+    /*}*/
+
+    /*#root div:empty {*/
+        /*display: none;*/
+    /*}*/
+
+    /*h1, .bighead {*/
+        /*font-size: 36px;*/
+    /*}*/
+
+    /*.bigpadright {*/
+        /*padding-right: 35px;*/
+    /*}*/
+
+    /*.bighead-barleft {*/
+        /*padding: 32px 32px 24px 32px;*/
+    /*}*/
+
+/*}*/
+
+/*#roles {*/
+  /*position: fixed; top: 320px; left: 80px;*/
+/*}*/
+/*.role {*/
+  /*float: left;*/
+  /*background-color: #000;*/
+  /*color: #fff;*/
+  /*width: 20px;*/
+  /*height: 20px;*/
+  /*text-align: center;*/
+  /*font-weight: bold;*/
+  /*margin: 0px 4px 0px 0px;*/
+  /*padding: 12px;*/
+  /*-webkit-border-radius: 100px; -moz-border-radius: 100px; border-radius: 100px;*/
+  /*opacity: 0.0;*/
+/*}*/

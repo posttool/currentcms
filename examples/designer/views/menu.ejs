@@ -1,0 +1,13 @@
+<h3 class="gwg"><a href="/">Designer</a></h3>
+<div class="main_menu">
+    <nav>
+    <% mainMenu(site.pages, 0) %>
+    </nav>
+</div>
+
+<% function mainMenu(pages, depth) { %>
+<ul depth="<%=depth%>"><%
+    for (var i=0; i<pages.length; i++) { var p = pages[i]; %>
+<li depth="<%=depth+1%>"><a href="<%= p.url %>"><%= p.title %></a></li><%
+        if (p.pages && p.pages.length !=0) { mainMenu(p.pages, depth+1); } } %>
+</ul><% } %>

@@ -1,0 +1,12 @@
+<h3 class="todd"><a href="/">ARTIST</a></h3>
+<div id="main-menu">
+    <% mainMenu(site.pages) %>
+</div>
+
+<% function mainMenu(pages) { %>
+<ul>
+<% for (var i=0; i<pages.length; i++) { var p = pages[i]; %>
+<li><a href="<%= p.url %>"><%= p.title %></a></li>
+<% if (p.pages && p.pages.length !=0) { mainMenu(p.pages); } } %>
+</ul>
+<% } %>

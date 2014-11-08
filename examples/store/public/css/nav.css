@@ -1,0 +1,38 @@
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    margin: 0 12px 12px 0;
+    float: left;
+}
+
+nav li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+    font-size: 16px;
+    letter-spacing: 2px;
+    padding: 2px;
+}
+
+nav li a:hover {
+    color: #fff;
+    background-color: #000;
+}
+
+nav li a.selected {
+    color: #666;
+}
+
+nav li a.selected:hover {
+    color: #fff;
+    background-color: #000;
+}
+
+nav li:last-child:after {
+    float:inherit;
+    clear: both;
+}

@@ -1,0 +1,97 @@
+<% var title = "Profile"; %>
+<% include head.ejs %>
+<% include nav.ejs %>
+<% include message.ejs %>
+
+<div class="container">
+    <h2>Profile</h2>
+
+    <p>You can authenticate with any of the following services. Once you have authenticated with any one of them, you
+        can link
+        the others, allowing you to log from any of these sources. Only one authentication source is necessary, but if
+        you do this,
+        remember to always only log in with that source. </p>
+
+
+    <!-- FACEBOOK INFORMATION -->
+    <div class="row">
+        <div class="col-lg-12">
+            <h3 class="text-primary"><span class="fa fa-facebook"></span> Facebook</h3>
+
+            <!-- check if the user has this token (is the user authenticated with this social account) -->
+            <% if (user.facebook.token) { %>
+            <!-- <strong>id</strong>: <%= user.facebook.id %><br>
+						<strong>token</strong>: <%= user.facebook.token %><br>
+						<%= user.facebook.email %> /
+						<%= user.facebook.name %><br>-->
+            <p><i class="fa fa-check"></i> Account linked for <%= user.facebook.email %></p>
+            <a href="/unlink/facebook" class="btn btn-primary">Unlink </a>
+            <% } else { %>
+            <a href="/connect/facebook" class="btn btn-primary">Connect Facebook</a>
+            <% } %>
+
+        </div>
+
+
+        <!-- TWITTER INFORMATION -->
+        <div class="col-sm-8">
+            <h3 class="text-info"><span class="fa fa-twitter"></span> Twitter</h3>
+
+            <% if (user.twitter.token) { %>
+
+            <!-- <strong>id</strong>: <%= user.twitter.id %><br>
+						<strong>token</strong>: <%= user.twitter.token %><br>
+						<%= user.twitter.displayName %> /
+						<%= user.twitter.username %><br> -->
+
+            <p><i class="fa fa-check"></i> Account linked for <%= user.twitter.username %></p>
+            <a href="/unlink/twitter" class="btn btn-info">Unlink </a>
+            <% } else { %>
+            <a href="/connect/twitter" class="btn btn-info">Connect Twitter</a>
+            <% } %>
+
+        </div>
+
+
+        <!-- GOOGLE INFORMATION -->
+        <div class="col-sm-8">
+            <h3 class="text-danger"><span class="fa fa-google-plus"></span> Google+</h3>
+
+            <% if (user.google.token) { %>
+            <!--<strong>id</strong>: <%= user.google.id %><br>-->
+            <!--<strong>token</strong>: <%= user.google.token %><br>-->
+            <!--<strong>email</strong>: <%= user.google.email %><br>-->
+            <!--<strong>name</strong>: <%= user.google.name %>-->
+            <p><i class="fa fa-check"></i> Account linked for <%= user.google.email %></p>
+
+            <a href="/unlink/google" class="btn btn-danger">Unlink </a>
+            <% } else { %>
+            <a href="/connect/google" class="btn btn-danger">Connect Google</a>
+            <% } %>
+
+        </div>
+
+        <!-- LOCAL INFORMATION-->
+        <div class="col-sm-6">
+            <h3><span class="fa fa-user"></span> Local</h3>
+
+            <% if (user.local.email) { %>
+            <!--<strong>id</strong>: <%= user._id %><br>-->
+            <!--<strong>email</strong>: <%= user.local.email %><br>-->
+            <!--<strong>password</strong>: <%= user.local.password %>-->
+            <p><i class="fa fa-check"></i> Local account for  <%= user.local.email %></p>
+
+            <a href="/unlink/local" class="btn btn-default">Unlink</a>
+            <% } else { %>
+            <a href="/connect/local" class="btn btn-default">Connect Local</a>
+            <% } %>
+
+        </div>
+
+
+    </div>
+</div>
+
+<script src="js/index.js"></script>
+
+<% include foot.ejs %>

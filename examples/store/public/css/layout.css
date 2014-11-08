@@ -1,0 +1,118 @@
+.section {
+    clear: both;
+    padding: 0px;
+    margin: 0px;
+}
+
+.col {
+    display: block;
+    float: left;
+    padding: 18px 36px 0 0;
+    box-sizing: border-box;
+}
+
+.col:first-child {
+    margin-left: 0;
+}
+
+/*  GROUPING  */
+.group:before,
+.group:after {
+    content: "";
+    display: table;
+}
+
+.group:after {
+    clear: both;
+}
+
+.group {
+    zoom: 1; /* For IE 6/7 */
+}
+
+/*  GRID OF THREE  */
+.span_5_of_5 {
+    width: 100%;
+}
+
+.span_4_of_5 {
+    width: 80%;
+}
+
+.span_3_of_5 {
+    width: 60%;
+}
+
+.span_2_of_5 {
+    width: 40%;
+}
+
+.span_1_of_5 {
+    width: 20%;
+}
+
+.span_3_of_3 {
+    width: 100%;
+}
+
+.span_2_of_3 {
+    width: 65%;
+}
+
+.span_1_of_3 {
+    width: 35%;
+}
+.hspan_2 {
+    overflow: hidden;
+}
+
+
+/*
+@media only screen and (max-width: 1150px) {
+
+    .span_5_of_5 {
+        width: 100%;
+    }
+
+    .span_4_of_5 {
+        width: 100%;
+    }
+
+    .span_3_of_5 {
+        width: 50%;
+    }
+
+    .span_2_of_5 {
+        width: 50%;
+    }
+
+    .span_1_of_5 {
+        width: 50%;
+    }
+}
+*/
+
+@media only screen and (max-width: 850px) {
+
+
+
+    .span_5_of_5 {
+        width: 100%;
+    }
+
+    .span_4_of_5 {
+        width: 100%;
+    }
+
+    .span_3_of_5 {
+        width: 100%;
+    }
+
+    .span_2_of_5 {
+        width: 100%;
+    }
+
+    .span_1_of_5 {
+        width: 50%;
+    }
+}

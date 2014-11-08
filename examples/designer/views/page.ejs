@@ -1,0 +1,33 @@
+<% var title = "Designer: "+ page.title.toUpperCase(); %>
+<% include head.ejs %>
+
+<% if (!page.template || page.template == "portfolio") {%>
+<div class="slides">
+   <% if (page.resources) { %>
+        <img src="<%=resource_basepath%>/w_350,h_350,c_fit/<%= page.resources[0].meta.public_id%>.jpg"/><br>
+   <% }%>
+</div>
+<div class="info"><% if (page.resources) { %><%= page.resources[0].name %><% }%></div>
+<% } else if (page.template == "text1") { %>
+<div class="text">
+    <%- page.description %>
+</div>
+<% } else if (page.template == "text2") { %>
+<div class="text">
+    <%- page.description %>
+</div>
+<% } %>
+
+<% include menu.ejs %>
+<% include foot.ejs %>
+
+<% if (!page.template || page.template == "portfolio") {%>
+<script src="/js/slideshow.js"></script>
+<script>
+    var bp = "<%= resource_basepath %>";
+    slideshow($(".slides"), $(".info"), <%- JSON.stringify(page.resources) %>);
+    function navigate_next(){
+        document.location.href = "<%= next_page.url %>";
+    }
+</script>
+<% } %>

@@ -1,0 +1,120 @@
+@import url("../font/stylesheet.css");
+
+* {
+    font-family: UniversLTStd55Roman, sans-serif;
+}
+
+body {
+    background-color: rgb(227, 227, 227);
+}
+
+h3 {
+    font-size: 19px;
+    font-weight: normal;
+    letter-spacing: 0;
+}
+
+.todd {
+    position: absolute;
+    top: 0px;
+    left: 30px;
+}
+
+#main-menu {
+    position: absolute;
+    top: 25px;
+    left: 230px;
+    width: 70%;
+}
+
+#main-menu ul {
+    display: none;
+    position: absolute;
+    margin: 0;
+    padding: 0 0 6px 0;
+}
+
+#main-menu li {
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    font-size: 8px;
+    line-height: 13px;
+}
+
+#main-menu > ul {
+    display: block;
+}
+
+#main-menu > ul > li {
+    float: left;
+    padding-right: 22px;
+}
+
+#main-menu > ul > ul {
+    background-color: rgb(227, 227, 227);
+    padding-right: 40px;
+    padding-top: 13px;
+}
+
+a {
+    color: #555;
+    letter-spacing: 1px;
+}
+
+a:hover {
+    color: #000;
+}
+
+a.selected {
+    color: rgb(0, 188, 255);
+}
+
+
+.slides {
+    position: absolute;
+    top: 80px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.slides img {
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    -ms-interpolation-mode: nearest-neighbor;
+}
+
+.info {
+    position: absolute;
+    top: 100px;
+    left: 31px;
+    width: 150px;
+    font-size: 9px;
+}
+
+.text {
+    margin: 140px 80px 30px 230px;
+}
+.text * {
+    font-family: UniversLTStd45Light, sans-serif;
+    font-size: 13px;
+    line-height: 19px;
+    color: #777;
+    max-width: 809px;
+    letter-spacing: .005em;
+    font-weight: normal;
+}
+.text table {
+    border-collapse: collapse;
+}
+
+.text table, th, td {
+    border: 0;
+}
+
+.text a {
+    font-family: UniversLTStd55Roman, sans-serif;
+}

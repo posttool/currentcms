@@ -1,0 +1,63 @@
+<% var title = "Todd Hido: "+ page.title.toUpperCase(); %>
+<%
+function downloadable(r) {
+    var u = r.url;
+    return '<a href="'+u+'" target="_blank">'+r.title+'</a>';
+}
+%>
+<% include head.ejs %>
+
+<% if (!page.template || page.template == "portfolio") {%>
+<div class="slides">
+   <% if (page.resources) { %>
+        <img src="<%=resource_basepath%>/w_350,h_350,c_fit/<%= page.resources[0].public_id%>.jpg"/><br>
+   <% }%>
+</div>
+<div class="info"></div>
+<% } else if (page.template == "text1") { %>
+<div class="text">
+    <%- page.description %>
+    <p><% for (var i=0; i<page.resources.length; i++) { %>
+    <%- downloadable(page.resources[i]) %><br>
+    <% } %></p>
+</div>
+<% } else if (page.template == "text2") { %>
+<div class="text">
+    <%- page.description %>
+</div>
+<% } %>
+
+<% include menu.ejs %>
+<% include foot.ejs %>
+
+<% if (!page.template || page.template == "portfolio") {%>
+<script src="/js/slideshow1.js"></script>
+<script>
+    var bp = "<%= resource_basepath %>";
+    if (document.location.pathname != '/') {
+        var resource_idx = function () {
+            var i = Number(window.location.hash.substring(1));
+            if (isNaN(i)) i = 0;
+            return i;
+        };
+        var resources = <%- JSON.stringify(page.resources) %>;
+        var $info = $(".info");
+        var ss = slideshow($(".slides"), resources,
+                {
+                    xOffset: 230, yOffset: 20,
+                    widthDelta: 250, heightDelta: 200,
+                    index: resource_idx(),
+                    $info: $info,
+                    infoCallback: function(resource) {
+                        $info.text(resource.title)
+                    }
+                });
+        $(window).on('hashchange', function() {
+          ss.goto(resource_idx())
+        });
+    }
+    function navigate_next(){
+        document.location.href = "<%=next_page.url%>";
+    }
+</script>
+<% } %>
