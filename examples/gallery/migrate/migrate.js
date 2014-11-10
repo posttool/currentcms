@@ -187,7 +187,7 @@ function get_field_val(meta, sval)
       else
         return get_ref_val(sval);
     case 'Date':
-      var d = sval.split('.'); // parse non standard date format
+      var d = sval.split('.'); // parse non standard date format ... moment
       var d6 = d[5].split(' ');
       var dd = new Date(Number(d[0]),Number(d[1])-1,Number(d[2]),Number(d[3]),Number(d[4]),Number(d6[0]));
       return dd;
