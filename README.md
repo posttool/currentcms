@@ -15,7 +15,7 @@ npm install currentcms
 
 ## Usage
 
-To get the CMS up and running, you must start a new project with some basic schema. Sample projects are coming.
+To get the CMS up and running, you must start a new project with some basic schema. Sample projects are in the examples directory.
 
 Then start the express admin user interface with supplied cli ```forever start mycmsconfig server```. Create
 administrator accounts with ```node mycmsconfig admin```.
