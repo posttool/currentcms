@@ -1,11 +1,8 @@
 Current Content Management
 ==========
 
-A simple Node/Mongo CMS. In development. 
+A simple Node/Mongo CMS. In development &ndash; perfectly useful for admin view of db. Uses Mongoose schema and forms meta data.
 
-Uses Mongoose schema and a basic language for building forms and browsers.
-
-Includes some basic workflow related to publishing...
 
 ## Installation
 
@@ -15,12 +12,11 @@ npm install currentcms
 
 ## Usage
 
-To get the CMS up and running, you must start a new project with some basic schema. Sample projects are in the examples directory.
-
+To get the CMS up and running, you must start a new project with some basic schema. Sample projects are in the examples directory. 
 
 ## models.js
 
-The "gallery" example defines artists and their works (inventory) as well as exhibitions and other collections. Take a look at https://github.com/posttool/currentcms/blob/master/examples/gallery/models.js for complete details. Each model requires ```meta```, ```schema``` properties. These are suffiencient to produce the generated CMS. 
+The "gallery" example defines artists and their works as well as exhibitions and other collections. Take a look at gallery [models.js](https://github.com/posttool/currentcms/blob/master/examples/gallery/models.js) for complete details. Each model requires ```meta```, ```schema``` properties. These are suffiencient to produce the generated CMS. 
 
 ```
 Inventory: {
