@@ -6,7 +6,7 @@ h2 {
 }
 
 .dashboard-model {
-    width: 100%;
+    width: 26%;
     height: 70px;
     background-color: #f3f3f3;
     margin: 0 15px 15px 0;
@@ -17,8 +17,7 @@ h2 {
 .dashboard-model h3 {
     margin: 23px 0 4px 0;
     color: #337;
-    font-weight: normal;
-    font-family: 'Playfair Display', sans-serif;
+    font-weight: bold;
 }
 
 .dashboard-model.dark {
